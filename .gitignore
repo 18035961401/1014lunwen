@@ -1,1 +1,4 @@
 ﻿code.zip
+__pycache__/
+*.pyc
+~$*

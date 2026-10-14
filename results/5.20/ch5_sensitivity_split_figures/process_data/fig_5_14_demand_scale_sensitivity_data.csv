@@ -1,0 +1,4 @@
+﻿group_type,case_key,case_name,plot_label,cost_10k,service_percent,topsis_open_count,topsis_avg_feeder_distance,topsis_open_stations,unique_points,feasible_pareto_size
+demand_scale,low,保守中心城区需求情景,低需求,17.77403431758184,31.187108788415653,3.0,2.607066844649758,省体育馆；太平园；桐梓林,14,250
+demand_scale,base,基准中心城区需求情景,基准需求,20.70054302386492,42.38892812116024,4.0,2.648462622218115,火车南站；高升桥；省体育馆；太平园,19,250
+demand_scale,high,高强度中心城区需求情景,高需求,23.097642427106187,38.37970192605681,4.0,2.463421321634475,火车南站；高升桥；省体育馆；太平园,12,250

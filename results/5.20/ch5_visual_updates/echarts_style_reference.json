@@ -1,0 +1,25 @@
+{
+  "source": "https://echarts.org.cn/examples/en/index.html",
+  "screenshot": "D:\\trae建模\\metro_logistics_qvns_nsga2_package\\metro_logistics_qvns_nsga2_package\\results\\5.20\\ch5_visual_updates\\echarts_examples_reference.png",
+  "ocr_keywords": [
+    "Line",
+    "Bar",
+    "Pie",
+    "Scatter",
+    "Graph",
+    "Lines",
+    "Heatmap",
+    "Stacked Line",
+    "Basic Line Chart",
+    "Gradient Stacked Area Chart"
+  ],
+  "style_observation": {
+    "font_family": "\"Open Sans\", \"PingFang SC\", Helvetica, Arial, sans-serif",
+    "background": "#FFFFFF",
+    "text": "#333333",
+    "axis_label": "#6E7079",
+    "deep_text": "#081642",
+    "grid": "#E7E7E7",
+    "accent": "#F72C5B"
+  }
+}

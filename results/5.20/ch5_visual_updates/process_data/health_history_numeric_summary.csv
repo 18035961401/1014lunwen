@@ -1,0 +1,16 @@
+﻿column,min,max,mean
+gen,0.0,300.0,150.0
+best_cost,197270.081143,204130.686956,199265.997127
+best_cost_carbon_cost,39.511765,51.019917,42.436611
+best_cost_cv,0.0,0.0,0.0
+best_service_ratio,0.0,0.566651,0.528595
+pareto_mean_total_cost,203012.567991,217497.546115,208672.940531
+pareto_mean_service_ratio,0.0,0.425078,0.283887
+population_pareto_mean_total_cost,203920.685092,217959.844538,209407.109861
+population_pareto_mean_service_ratio,0.0,0.409617,0.302932
+pareto_size,5.0,250.0,232.192691
+population_pareto_size,5.0,100.0,89.089701
+feasible_count,5.0,100.0,98.166113
+min_cv,0.0,0.0,0.0
+epsilon,0.01,0.3,0.085497
+archive_size,5.0,250.0,232.192691
