@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="580" viewBox="0 0 980 580">
+<style>text{font-family:"Microsoft YaHei","SimHei","Noto Sans CJK SC","Source Han Sans SC","PingFang SC","Heiti SC","WenQuanYi Micro Hei","Arial Unicode MS","DejaVu Sans",sans-serif;} .title{font-weight:600;}</style>
+<rect x="0" y="0" width="100%" height="100%" fill="white"/>
+<text x="490.0" y="32" text-anchor="middle" font-size="20">最小成本: no_budget_range</text>
+<line x1="90" y1="430" x2="940" y2="430" stroke="#333"/>
+<line x1="90" y1="70" x2="90" y2="430" stroke="#333"/>
+<rect x="102.42" y="71.87" width="40.54" height="358.13" fill="#1f77b4" fill-opacity="0.85"/>
+<text x="122.69" y="65.87" text-anchor="middle" font-size="11">1.983e+05</text>
+<text x="122.69" y="454" text-anchor="middle" font-size="10" transform="rotate(25 122.69 454)">QVNS-Q3</text>
+<rect x="167.81" y="71.67" width="40.54" height="358.33" fill="#ff7f0e" fill-opacity="0.85"/>
+<text x="188.08" y="65.67" text-anchor="middle" font-size="11">1.984e+05</text>
+<text x="188.08" y="454" text-anchor="middle" font-size="10" transform="rotate(25 188.08 454)">VNS-only</text>
+<rect x="233.19" y="71.22" width="40.54" height="358.78" fill="#2ca02c" fill-opacity="0.85"/>
+<text x="253.46" y="65.22" text-anchor="middle" font-size="11">1.987e+05</text>
+<text x="253.46" y="454" text-anchor="middle" font-size="10" transform="rotate(25 253.46 454)">QVNS-Q9</text>
+<rect x="298.58" y="70.69" width="40.54" height="359.31" fill="#d62728" fill-opacity="0.85"/>
+<text x="318.85" y="64.69" text-anchor="middle" font-size="11">1.989e+05</text>
+<text x="318.85" y="454" text-anchor="middle" font-size="10" transform="rotate(25 318.85 454)">NSGA-II</text>
+<rect x="363.96" y="70.00" width="40.54" height="360.00" fill="#9467bd" fill-opacity="0.85"/>
+<text x="384.23" y="64.00" text-anchor="middle" font-size="11">1.993e+05</text>
+<text x="384.23" y="454" text-anchor="middle" font-size="10" transform="rotate(25 384.23 454)">Q-learning-only</text>
+<rect x="429.35" y="71.31" width="40.54" height="358.69" fill="#8c564b" fill-opacity="0.85"/>
+<text x="449.62" y="65.31" text-anchor="middle" font-size="11">1.986e+05</text>
+<text x="449.62" y="454" text-anchor="middle" font-size="10" transform="rotate(25 449.62 454)">QVNS-Q11</text>
+<rect x="494.73" y="71.87" width="40.54" height="358.13" fill="#17becf" fill-opacity="0.85"/>
+<text x="515.00" y="65.87" text-anchor="middle" font-size="11">1.983e+05</text>
+<text x="515.00" y="454" text-anchor="middle" font-size="10" transform="rotate(25 515.00 454)">QVNS-Q11B</text>
+<rect x="560.12" y="71.49" width="40.54" height="358.51" fill="#bcbd22" fill-opacity="0.85"/>
+<text x="580.38" y="65.49" text-anchor="middle" font-size="11">1.985e+05</text>
+<text x="580.38" y="454" text-anchor="middle" font-size="10" transform="rotate(25 580.38 454)">QVNS-Q9C</text>
+<rect x="625.50" y="72.49" width="40.54" height="357.51" fill="#7f7f7f" fill-opacity="0.85"/>
+<text x="645.77" y="66.49" text-anchor="middle" font-size="11">1.979e+05</text>
+<text x="645.77" y="454" text-anchor="middle" font-size="10" transform="rotate(25 645.77 454)">QVNS-Q9D</text>
+<rect x="690.88" y="72.02" width="40.54" height="357.98" fill="#1f77b4" fill-opacity="0.85"/>
+<text x="711.15" y="66.02" text-anchor="middle" font-size="11">1.982e+05</text>
+<text x="711.15" y="454" text-anchor="middle" font-size="10" transform="rotate(25 711.15 454)">QVNS-Q9A</text>
+<rect x="756.27" y="71.93" width="40.54" height="358.07" fill="#ff7f0e" fill-opacity="0.85"/>
+<text x="776.54" y="65.93" text-anchor="middle" font-size="11">1.983e+05</text>
+<text x="776.54" y="454" text-anchor="middle" font-size="10" transform="rotate(25 776.54 454)">QVNS-Q11C</text>
+<rect x="821.65" y="72.18" width="40.54" height="357.82" fill="#2ca02c" fill-opacity="0.85"/>
+<text x="841.92" y="66.18" text-anchor="middle" font-size="11">1.981e+05</text>
+<text x="841.92" y="454" text-anchor="middle" font-size="10" transform="rotate(25 841.92 454)">QVNS-Q9B</text>
+<rect x="887.04" y="71.56" width="40.54" height="358.44" fill="#d62728" fill-opacity="0.85"/>
+<text x="907.31" y="65.56" text-anchor="middle" font-size="11">1.985e+05</text>
+<text x="907.31" y="454" text-anchor="middle" font-size="10" transform="rotate(25 907.31 454)">QVNS-Q11A</text>
+</svg>

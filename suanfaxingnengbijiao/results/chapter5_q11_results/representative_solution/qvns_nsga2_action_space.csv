@@ -1,0 +1,6 @@
+﻿name,operator,pm_factor,pc_factor,prior,open_prob,direct_to_metro_prob,improve_assign_prob,close_prob,direct_prob
+standard-conservative,standard,0.4,1.0,0.06,,,,,
+standard-baseline,standard,0.9,1.0,0.1,,,,,
+standard-diversify,standard,1.2,1.0,0.04,,,,,
+service-ratio-oriented,service_ratio,0.65,1.0,0.02,0.22,0.25,0.16,,
+cost-oriented,cost,0.55,0.98,-0.01,,,,0.12,0.08

@@ -1,0 +1,23 @@
+﻿算法,文件名,说明
+QVNS-NSGA-II,qvns_nsga2_pareto.csv,Pareto解集，含全局覆盖率、4km空间覆盖率、4km内需求满足率、碳成本和班次组织成本
+QVNS-NSGA-II,qvns_nsga2_final_history.csv,最终迭代历史
+QVNS-NSGA-II,qvns_nsga2_training_history.csv,Q-learning训练历史
+QVNS-NSGA-II,qvns_nsga2_q_table.csv,Q表
+QVNS-NSGA-II,qvns_nsga2_action_space.csv,动作空间
+QVNS-NSGA-II,qvns_nsga2_best_params.csv,最优参数记录
+QVNS-NSGA-II,qvns_nsga2_vns_history.csv,VNS局部搜索历史
+QVNS-NSGA-II,qvns_nsga2_compromise_assignments.csv,折中解货流分配表
+QVNS-NSGA-II,qvns_nsga2_station_load.csv,折中解站点负载表
+QVNS-NSGA-II,qvns_nsga2_line_load.csv,折中解线路—班次装载表
+NSGA-II,nsga2_pareto.csv,基准NSGA-II Pareto解集
+NSGA-II,nsga2_history.csv,基准NSGA-II迭代历史
+NSGA-II,nsga2_compromise_assignments.csv,折中解货流分配表
+NSGA-II,nsga2_station_load.csv,折中解站点负载表
+NSGA-II,nsga2_line_load.csv,折中解线路—班次装载表
+消融实验,ablation_run_metrics.csv,消融实验单次运行指标
+消融实验,ablation_summary.csv,消融实验汇总指标
+消融实验,ablation_pareto_points.csv,消融实验Pareto散点
+消融实验,fig_ablation_igd_no_budget_range.svg,IGD 指标对比图
+消融实验,fig_ablation_spread_no_budget_range.svg,Spread 指标对比图
+消融实验,fig_ablation_spacing_no_budget_range.svg,Spacing 指标对比图
+

@@ -1,0 +1,11 @@
+﻿tuning_group,group_type,vns_mode,vns_interval,vns_elite_rate,vns_trials_per_neighborhood,vns_max_neighborhood,epsilon_start,epsilon_end,q_alpha,q_gamma,archive_multiplier,archive_boundary_keep_rate,vns_candidate_strategy,stagnation_window,hv_improvement_threshold,min_vns_gap,tuning_goal
+Q3,baseline_tuning,fixed,5,0.18,4,4,0.3,0.02,0.2,0.85,2.0,0.0,elite,,,,平衡HV与运行时间的当前最优基准
+Q9,adaptive_baseline,adaptive,0,0.12,2,3,0.3,0.02,0.18,0.85,2.5,0.2,mixed,8,0.003,3,自适应VNS基准分支：缩短运行时间并保持HV
+Q9A,q9_branch,adaptive,0,0.1,2,3,0.3,0.02,0.18,0.85,2.0,0.18,mixed,10,0.0025,5,快速分支：更少VNS触发，目标是运行时间更接近NSGA-II/Q-learning-only
+Q9B,q9_branch,adaptive,0,0.12,2,3,0.3,0.008,0.15,0.9,2.5,0.2,mixed,8,0.003,4,稳定分支：降低后期随机性，目标是降低HV标准差
+Q9C,q9_branch,adaptive,0,0.14,2,3,0.3,0.02,0.18,0.85,4.0,0.3,mixed,8,0.003,3,多样性分支：扩大archive并增强边界保留，目标是提高唯一解数并改善Spacing/Spread
+Q9D,q9_branch,adaptive,0,0.15,3,4,0.3,0.012,0.16,0.88,3.0,0.25,mixed,8,0.003,4,平衡质量分支：兼顾HV、IGD、Spread和运行时间
+Q11,integrated_enhanced,adaptive,0,0.18,3,4,0.3,0.008,0.15,0.9,3.5,0.25,mixed,8,0.003,3,综合增强组：archive+边界保留+自适应VNS+后期收敛控制
+Q11A,q11_branch,adaptive,0,0.16,3,4,0.3,0.005,0.12,0.92,3.0,0.18,mixed,10,0.002,4,稳定收敛分支：更低后期随机性、更平滑Q-learning，目标是降低HV标准差和IGD波动
+Q11B,q11_branch,adaptive,0,0.18,3,4,0.3,0.012,0.16,0.88,5.0,0.35,mixed,8,0.003,3,分布多样性分支：扩大archive并增强边界保留，目标是降低Spacing/Spread并提高唯一解数
+Q11C,q11_branch,adaptive,0,0.12,2,3,0.3,0.01,0.15,0.88,2.5,0.2,mixed,10,0.0025,5,快速综合分支：减少VNS调用和局部搜索强度，目标是降低运行时间并保持综合质量

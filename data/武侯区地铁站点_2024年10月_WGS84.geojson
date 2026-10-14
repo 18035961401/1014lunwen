@@ -1,0 +1,872 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.06377128356674,
+          30.64524820477998
+        ]
+      },
+      "properties": {
+        "name": "华西坝",
+        "lines": "地铁1号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区玉林街道华西坝(地铁站)四川大学(华西校区)",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.06409811383767,
+          30.63579170588397
+        ]
+      },
+      "properties": {
+        "name": "省体育馆",
+        "lines": "地铁1号线|地铁3号线",
+        "is_transfer": "是",
+        "address": "四川省成都市武侯区玉林街道省体育馆(地铁站)时代数码大厦",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.06437699670701,
+          30.627206843715193
+        ]
+      },
+      "properties": {
+        "name": "倪家桥",
+        "lines": "地铁1号线|地铁8号线",
+        "is_transfer": "是",
+        "address": "四川省成都市武侯区玉林街道倪家桥(地铁站)威斯顿联邦大厦",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.06460701180056,
+          30.617747334588476
+        ]
+      },
+      "properties": {
+        "name": "桐梓林",
+        "lines": "地铁1号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区火车南站街道桐梓林(地铁站)锦绣花园",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.06488496096489,
+          30.607899830377264
+        ]
+      },
+      "properties": {
+        "name": "火车南站",
+        "lines": "地铁1号线|地铁7号线|地铁18号线",
+        "is_transfer": "是",
+        "address": "四川省成都市武侯区桂溪街道火车南站(地铁站)成都高新技术产业开发区(南区)",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0650782644534,
+          30.59369000386729
+        ]
+      },
+      "properties": {
+        "name": "高新",
+        "lines": "地铁1号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区桂溪街道高新(地铁站)成都高新技术产业开发区(南区)",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.06537727130413,
+          30.581899963873962
+        ]
+      },
+      "properties": {
+        "name": "金融城",
+        "lines": "地铁1号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区石羊街道金融城(地铁站)成都高新技术产业开发区(南区)",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.06570501414639,
+          30.574876060374866
+        ]
+      },
+      "properties": {
+        "name": "孵化园",
+        "lines": "地铁1号线|地铁18号线|地铁9号线",
+        "is_transfer": "是",
+        "address": "四川省成都市武侯区桂溪街道孵化园(地铁站)成都高新技术产业开发区(南区)",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.06608669789027,
+          30.567209267839452
+        ]
+      },
+      "properties": {
+        "name": "锦城广场",
+        "lines": "地铁1号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区桂溪街道锦城广场(地铁站)成都高新技术产业开发区(南区)",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0666422800609,
+          30.555400610084078
+        ]
+      },
+      "properties": {
+        "name": "世纪城",
+        "lines": "地铁1号线|地铁18号线",
+        "is_transfer": "是",
+        "address": "四川省成都市武侯区桂溪街道世纪城(地铁站)成都高新技术产业开发区(南区)",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.06726262306955,
+          30.546780697453013
+        ]
+      },
+      "properties": {
+        "name": "天府三街",
+        "lines": "地铁1号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区桂溪街道天府三街(地铁站)成都高新技术产业开发区(南区)",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.06813182040106,
+          30.532829122161278
+        ]
+      },
+      "properties": {
+        "name": "天府五街",
+        "lines": "地铁1号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区桂溪街道天府五街(地铁站)成都高新技术产业开发区(南区)",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.07798780017674,
+          30.64476146762054
+        ]
+      },
+      "properties": {
+        "name": "新南门",
+        "lines": "地铁3号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区望江路街道新南门(地铁站)成都交通饭店",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.04319729737286,
+          30.641782487791623
+        ]
+      },
+      "properties": {
+        "name": "高升桥",
+        "lines": "地铁3号线|地铁5号线",
+        "is_transfer": "是",
+        "address": "四川省成都市武侯区浆洗街街道高升桥(地铁站)成都武侯祠大戏台",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.07352290110633,
+          30.638375277913422
+        ]
+      },
+      "properties": {
+        "name": "磨子桥",
+        "lines": "地铁3号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区望江路街道磨子桥(地铁站)四川大学(望江校区)",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.03022545424953,
+          30.63601937929523
+        ]
+      },
+      "properties": {
+        "name": "红牌楼",
+        "lines": "地铁3号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区红牌楼街道红牌楼(地铁站)红牌楼广场",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.05528819638842,
+          30.63473718906897
+        ]
+      },
+      "properties": {
+        "name": "衣冠庙",
+        "lines": "地铁3号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区玉林街道衣冠庙(地铁站)立信大厦",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9993347315564,
+          30.63019417329858
+        ]
+      },
+      "properties": {
+        "name": "武侯立交",
+        "lines": "地铁3号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区簇锦街道武侯立交(地铁站)万茂大厦",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.01797922976678,
+          30.624968638804827
+        ]
+      },
+      "properties": {
+        "name": "太平园",
+        "lines": "地铁3号线|地铁7号线|地铁10号线",
+        "is_transfer": "是",
+        "address": "四川省成都市武侯区红牌楼街道太平园(地铁站)",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.98548790321875,
+          30.624924272495075
+        ]
+      },
+      "properties": {
+        "name": "武青南路",
+        "lines": "地铁3号线|地铁9号线",
+        "is_transfer": "是",
+        "address": "四川省成都市武侯区簇锦街道武青南路(地铁站)神州智慧天地",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.00951861527413,
+          30.62256446271828
+        ]
+      },
+      "properties": {
+        "name": "川藏立交",
+        "lines": "地铁3号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区簇锦街道川藏立交(地铁站)新希望大厦(太平园东三街)",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.97629115583736,
+          30.61232121933187
+        ]
+      },
+      "properties": {
+        "name": "双凤桥",
+        "lines": "地铁3号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区簇桥街道双凤桥(地铁站)双凤村",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.04124340645033,
+          30.627816678306
+        ]
+      },
+      "properties": {
+        "name": "科园",
+        "lines": "地铁5号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区芳草街街道科园(地铁站)理想中心",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.04068841903222,
+          30.618290796289052
+        ]
+      },
+      "properties": {
+        "name": "九兴大道",
+        "lines": "地铁5号线|地铁8号线",
+        "is_transfer": "是",
+        "address": "四川省成都市武侯区芳草街街道九兴大道(地铁站)成都高新技术产业开发区(南区)",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.04228025252101,
+          30.610792132606548
+        ]
+      },
+      "properties": {
+        "name": "神仙树",
+        "lines": "地铁5号线|地铁7号线",
+        "is_transfer": "是",
+        "address": "四川省成都市武侯区芳草街街道神仙树(地铁站)成都高新技术产业开发区(南区)",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.04249321234538,
+          30.59851539657716
+        ]
+      },
+      "properties": {
+        "name": "石羊立交",
+        "lines": "地铁5号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区石羊街道石羊立交(地铁站)成都高新技术产业开发区(南区)",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.04342909254464,
+          30.587994260329197
+        ]
+      },
+      "properties": {
+        "name": "市一医院",
+        "lines": "地铁5号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区石羊街道市一医院(地铁站)成都高新技术产业开发区(南区)",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.04372857963219,
+          30.581130119644808
+        ]
+      },
+      "properties": {
+        "name": "交子大道",
+        "lines": "地铁5号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区石羊街道交子大道(地铁站)成都高新技术产业开发区(南区)",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.04393633615412,
+          30.573930258067307
+        ]
+      },
+      "properties": {
+        "name": "锦城大道",
+        "lines": "地铁5号线|地铁9号线",
+        "is_transfer": "是",
+        "address": "四川省成都市武侯区石羊街道锦城大道(地铁站)成都高新技术产业开发区(南区)",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.04414431303007,
+          30.561880033697488
+        ]
+      },
+      "properties": {
+        "name": "锦城湖",
+        "lines": "地铁5号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区桂溪街道锦城湖(地铁站)成都高新技术产业开发区(南区)",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0443432612043,
+          30.551043283190594
+        ]
+      },
+      "properties": {
+        "name": "大源",
+        "lines": "地铁5号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区桂溪街道大源(地铁站)成都高新技术产业开发区(南区)",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.00615851319566,
+          30.653906487631257
+        ]
+      },
+      "properties": {
+        "name": "龙爪堰",
+        "lines": "地铁7号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区晋阳街道龙爪堰(地铁站)金林·俊景",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.01288160527639,
+          30.641694597475325
+        ]
+      },
+      "properties": {
+        "name": "武侯大道",
+        "lines": "地铁7号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区晋阳街道武侯大道(地铁站)吉福大厦",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.03679288099853,
+          30.617329406363865
+        ]
+      },
+      "properties": {
+        "name": "高朋大道",
+        "lines": "地铁7号线|地铁8号线",
+        "is_transfer": "是",
+        "address": "四川省成都市武侯区肖家河街道高朋大道(地铁站)成都高新技术产业开发区(南区)",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.08019960560833,
+          30.602172137540418
+        ]
+      },
+      "properties": {
+        "name": "三瓦窑",
+        "lines": "地铁7号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区桂溪街道三瓦窑(地铁站)成都高新技术产业开发区(南区)",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.03772950223292,
+          30.63027091510706
+        ]
+      },
+      "properties": {
+        "name": "永丰",
+        "lines": "地铁8号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区肖家河街道永丰(地铁站)成都高新技术产业开发区(南区)",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.04987532971565,
+          30.628498932278173
+        ]
+      },
+      "properties": {
+        "name": "芳草街",
+        "lines": "地铁8号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区芳草街街道芳草街(地铁站)成都高新技术产业开发区(南区)",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.07310696699062,
+          30.62761013633097
+        ]
+      },
+      "properties": {
+        "name": "川大望江校区",
+        "lines": "地铁8号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区玉林街道川大望江校区(地铁站)竹苑",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.03192527870499,
+          30.60843508030519
+        ]
+      },
+      "properties": {
+        "name": "殷家林",
+        "lines": "地铁8号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区石羊街道殷家林(地铁站)成都高新技术产业开发区(南区)",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.03156475768823,
+          30.60090491742429
+        ]
+      },
+      "properties": {
+        "name": "庆安",
+        "lines": "地铁8号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区石羊街道庆安(地铁站)成都高新技术产业开发区(南区)",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.02870851125913,
+          30.58799525122857
+        ]
+      },
+      "properties": {
+        "name": "石羊",
+        "lines": "地铁8号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区石羊街道石羊(地铁站)成都高新技术产业开发区(南区)",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.02294895969895,
+          30.581991121547436
+        ]
+      },
+      "properties": {
+        "name": "三元",
+        "lines": "地铁8号线|地铁9号线",
+        "is_transfer": "是",
+        "address": "四川省成都市武侯区石羊街道三元(地铁站)成都高新技术产业开发区(南区)",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.97590394166168,
+          30.648680419074104
+        ]
+      },
+      "properties": {
+        "name": "机投桥",
+        "lines": "地铁9号线|地铁17号线",
+        "is_transfer": "是",
+        "address": "四川省成都市武侯区机投桥街道机投桥(地铁站)长青树养老服务中心",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.99036691902316,
+          30.605749197292536
+        ]
+      },
+      "properties": {
+        "name": "簇桥",
+        "lines": "地铁9号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区簇桥街道簇桥(地铁站)龙井东苑",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.00160461612731,
+          30.60097684395257
+        ]
+      },
+      "properties": {
+        "name": "华兴",
+        "lines": "地铁10号线|地铁9号线",
+        "is_transfer": "是",
+        "address": "四川省成都市武侯区簇桥街道华兴(地铁站)成都武侯华兴社区卫生服务中心",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.01284270872932,
+          30.597334456736146
+        ]
+      },
+      "properties": {
+        "name": "太平寺",
+        "lines": "地铁9号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区簇桥街道太平寺(地铁站)四川省成都市武侯区",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0699111,
+          30.5782306
+        ]
+      },
+      "properties": {
+        "name": "心岛",
+        "lines": "地铁9号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区桂溪街道心岛(地铁站)成都高新技术产业开发区(南区)",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.00591019230316,
+          30.613760818780637
+        ]
+      },
+      "properties": {
+        "name": "簇锦",
+        "lines": "地铁10号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区簇锦街道簇锦(地铁站)八益灯饰专业商场",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.96786637611373,
+          30.59427552776814
+        ]
+      },
+      "properties": {
+        "name": "金花",
+        "lines": "地铁10号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区金花桥街道金花(地铁站)美丽点会所",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.06690712214713,
+          30.570868906737296
+        ]
+      },
+      "properties": {
+        "name": "锦城广场东",
+        "lines": "地铁18号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区桂溪街道锦城广场东(地铁站)成都高新技术产业开发区(南区)",
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.96113063287041,
+          30.643689273820133
+        ]
+      },
+      "properties": {
+        "name": "白佛桥",
+        "lines": "地铁17号线",
+        "is_transfer": "否",
+        "address": "四川省成都市武侯区机投桥街道白佛桥(地铁站)",
+        "type": "station"
+      }
+    }
+  ]
+}

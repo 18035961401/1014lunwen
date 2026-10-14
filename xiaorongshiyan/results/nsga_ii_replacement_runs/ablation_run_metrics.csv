@@ -1,0 +1,4 @@
+﻿algorithm,group_type,model_setting,run_id,seed,runtime_seconds,pareto_size,unique_points,min_cost,max_service_ratio,topsis_cost,topsis_service_ratio,safeguard_rejects,actual_vns_calls,archive_final_size,archive_unique_solutions
+NSGA-II,ablation,no_budget_range,8,20260601,56.337586641311646,100,14,199997.52082091724,0.42618831611320585,215577.88814649204,0.32709178771761843,0,0,0,0
+NSGA-II,ablation,no_budget_range,14,20260602,67.9809136390686,100,15,196746.43631138478,0.44453440392086446,208114.58480207357,0.3135036829157986,0,0,0,0
+NSGA-II,ablation,no_budget_range,18,20260603,57.32099390029907,100,14,200131.51072514497,0.38696005104011966,209086.1350444387,0.29492644441814175,0,0,0,0

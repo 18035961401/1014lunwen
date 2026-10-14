@@ -1,0 +1,3 @@
+﻿logistics_park_id,source_id,logistics_park_name,matrix_origin_name,lon,lat,access_station_id,access_station_name,access_station_full_name,matrix_destination_name,access_station_lon,access_station_lat,access_lines,access_distance_km,source_share,source_share_basis,data_source
+L1,S1,顺丰丰泰产业园,顺丰丰泰产业园,103.96055,30.552564,S1,双流西站,S1双流西站,双流西站,103.916978,30.545125,3/10,3.7,0.8,基准假设：S1/L1承担80%，S2/L2承担20%；用于q_ij=s_i*Q_j的货源分摊,metro_data_plotting_tools.py中的物流园区/接入站坐标 + 顺丰园区到接驳地铁站.csv + 新模型确认的source_share
+L2,S2,顺丰丰泰产业园成都天府,顺丰丰泰产业园成都天府,104.500946,30.438863,S2,天府机场北站,S2天府机场北站,天府机场北地铁站,104.4533,30.3451,18/19,4.2,0.2,基准假设：S1/L1承担80%，S2/L2承担20%；用于q_ij=s_i*Q_j的货源分摊,metro_data_plotting_tools.py中的物流园区/接入站坐标 + 顺丰园区到接驳地铁站.csv + 新模型确认的source_share

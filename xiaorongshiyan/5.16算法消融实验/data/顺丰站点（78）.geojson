@@ -1,0 +1,2586 @@
+{
+  "type": "FeatureCollection",
+  "name": "sf78_points",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 1,
+        "original_81_row": 1,
+        "站点名称": "顺丰速运(星宸国际店)",
+        "地址": "华阳街道益州大道中段599号航天城上城11栋附14号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.5,
+        "POI_ID": "B0FFIMSC24",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.058035,
+        "纬度_GCJ02": 30.557197,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.058035,
+          30.557197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 2,
+        "original_81_row": 2,
+        "站点名称": "顺丰速运(环球中心店)",
+        "地址": "石羊街道天府大道北段1700号环球中心N2与N3之间一楼112号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.4,
+        "POI_ID": "B0J33HPZGM",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.062602,
+        "纬度_GCJ02": 30.570931,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.062602,
+          30.570931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 3,
+        "original_81_row": 3,
+        "站点名称": "顺丰(盛华南路店)",
+        "地址": "盛华南路与盛益街交叉口西北20米",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.1,
+        "POI_ID": "B0LR9NOOOC",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.053827,
+        "纬度_GCJ02": 30.548991,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.053827,
+          30.548991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 4,
+        "original_81_row": 4,
+        "站点名称": "顺丰速运(长寿苑店)",
+        "地址": "火车南站街道长寿苑社区居委会长寿路13号附4号顺丰驿收发",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;生活服务场所;生活服务场所",
+        "类型代码": 70000,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.2,
+        "POI_ID": "B0KBHC96W2",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.074325,
+        "纬度_GCJ02": 30.610125,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.074325,
+          30.610125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 5,
+        "original_81_row": 5,
+        "站点名称": "顺丰速运(中海锦城一期店)",
+        "地址": "簇桥街道锦城社区居委会武侯区金履四路59号、61号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.3,
+        "POI_ID": "B0JRGAX6GM",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 103.987154,
+        "纬度_GCJ02": 30.609547,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.987154,
+          30.609547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 6,
+        "original_81_row": 6,
+        "站点名称": "顺丰速运(机投镇店)",
+        "地址": "机投桥街道九金街86号附76号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.5,
+        "POI_ID": "B0HD0DXTM3",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 103.969334,
+        "纬度_GCJ02": 30.647285,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.969334,
+          30.647285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 7,
+        "original_81_row": 7,
+        "站点名称": "顺丰速运(世纪城店)",
+        "地址": "桂溪街道世纪城路198号顺丰速运",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.5,
+        "POI_ID": "B0FFI7JO32",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.079296,
+        "纬度_GCJ02": 30.555829,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.079296,
+          30.555829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 8,
+        "original_81_row": 8,
+        "站点名称": "顺丰速运(荟锦路店)",
+        "地址": "石羊街道荟锦路58号(新街里第二街)",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.5,
+        "POI_ID": "B0FFI4D9NT",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.055215,
+        "纬度_GCJ02": 30.593661,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.055215,
+          30.593661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 9,
+        "original_81_row": 9,
+        "站点名称": "顺丰速运(御府花都店)",
+        "地址": "桂溪街道天泰路1号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.5,
+        "POI_ID": "B0FFG77FK2",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.069852,
+        "纬度_GCJ02": 30.595621,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.069852,
+          30.595621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 10,
+        "original_81_row": 10,
+        "站点名称": "顺丰速运(郭家桥店)",
+        "地址": "望江路街道二环路南一段一号(新时空公寓一楼)",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.5,
+        "POI_ID": "B001C8PLNH",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.083648,
+        "纬度_GCJ02": 30.621045,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.083648,
+          30.621045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 11,
+        "original_81_row": 11,
+        "站点名称": "顺丰速运(银泰中心店)",
+        "地址": "石羊街道名都路680号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.5,
+        "POI_ID": "B0G2UD3DU9",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.071349,
+        "纬度_GCJ02": 30.587636,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.071349,
+          30.587636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 12,
+        "original_81_row": 12,
+        "站点名称": "顺丰速运(大源中央公园店)",
+        "地址": "桂溪街道四川省成都市高新区天府三街871号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.4,
+        "POI_ID": "B0GRMZXZ7V",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.048449,
+        "纬度_GCJ02": 30.546402,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.048449,
+          30.546402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 13,
+        "original_81_row": 13,
+        "站点名称": "顺丰速运(新园大道店)",
+        "地址": "石羊街道四川省成都市成都武侯区石羊场街道新园大道10号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.4,
+        "POI_ID": "B001C93K9W",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.039293,
+        "纬度_GCJ02": 30.593443,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.039293,
+          30.593443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 14,
+        "original_81_row": 14,
+        "站点名称": "顺丰",
+        "地址": "一环路南二段辅路与科华巷交叉口西南40米",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.1,
+        "POI_ID": "B0L6X730PV",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.074825,
+        "纬度_GCJ02": 30.633275,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.074825,
+          30.633275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 15,
+        "original_81_row": 15,
+        "站点名称": "顺丰速运(麦田中心店)",
+        "地址": "火车南站街道火车南站西路15号(麦田中心一楼)",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.4,
+        "POI_ID": "B0HGPDTSL5",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.063128,
+        "纬度_GCJ02": 30.608107,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.063128,
+          30.608107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 16,
+        "original_81_row": 16,
+        "站点名称": "顺丰",
+        "地址": "吉泰六路与吉泰路交叉口西北100米",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.1,
+        "POI_ID": "B0LUXORGD9",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.060822,
+        "纬度_GCJ02": 30.540455,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.060822,
+          30.540455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 17,
+        "original_81_row": 17,
+        "站点名称": "顺丰速运(大源欢乐颂店)",
+        "地址": "石羊街道天府三街1599号2栋附101-106号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.3,
+        "POI_ID": "B0FFHGR4RH",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.038498,
+        "纬度_GCJ02": 30.545716,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.038498,
+          30.545716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 18,
+        "original_81_row": 18,
+        "站点名称": "顺丰速运(凯德世纪名邸店)",
+        "地址": "桂溪街道昆华路1290号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;生活服务场所;生活服务场所",
+        "类型代码": 70000,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.3,
+        "POI_ID": "B0LRMUYCKA",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.034771,
+        "纬度_GCJ02": 30.561482,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.034771,
+          30.561482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 19,
+        "original_81_row": 19,
+        "站点名称": "顺丰速运(中苑巷店)",
+        "地址": "火车南站街道中苑巷2号2号附10号-11号(城南新贵店)",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.5,
+        "POI_ID": "B0FFGFPQ78",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.070396,
+        "纬度_GCJ02": 30.614343,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.070396,
+          30.614343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 20,
+        "original_81_row": 20,
+        "站点名称": "顺丰速运(科华北路店)",
+        "地址": "火车南站街道科华北路68号一楼",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.5,
+        "POI_ID": "B0FFIZVIW3",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.076356,
+        "纬度_GCJ02": 30.621267,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.076356,
+          30.621267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 21,
+        "original_81_row": 21,
+        "站点名称": "顺丰速运(天府一街店)",
+        "地址": "石羊街道天府一街1266号一楼",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.3,
+        "POI_ID": "B0KGUO2O0A",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.041857,
+        "纬度_GCJ02": 30.561768,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.041857,
+          30.561768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 22,
+        "original_81_row": 22,
+        "站点名称": "顺丰速运(城市春天店)",
+        "地址": "南三环路四段362号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.4,
+        "POI_ID": "B0KU55O3MS",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.059116,
+        "纬度_GCJ02": 30.59895,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.059116,
+          30.59895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 23,
+        "original_81_row": 23,
+        "站点名称": "顺丰速运(长益路店)",
+        "地址": "红牌楼街道长益街11号附7号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.5,
+        "POI_ID": "B0FFKXTWNY",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.030456,
+        "纬度_GCJ02": 30.624549,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.030456,
+          30.624549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 24,
+        "original_81_row": 24,
+        "站点名称": "顺丰速运(川大望江北店)",
+        "地址": "望江路街道一环路南一段24号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.3,
+        "POI_ID": "B0HDP7MAX7",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.081394,
+        "纬度_GCJ02": 30.63395,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.081394,
+          30.63395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 25,
+        "original_81_row": 25,
+        "站点名称": "顺丰速运(广福桥店)",
+        "地址": "浆洗街街道广福桥正街28号(4-1-1-1号)",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.5,
+        "POI_ID": "B001C8NQ8N",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.035736,
+        "纬度_GCJ02": 30.642865,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.035736,
+          30.642865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 26,
+        "original_81_row": 26,
+        "站点名称": "顺丰速运(高华一街店)",
+        "地址": "浆洗街街道高华一街28号、32号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.5,
+        "POI_ID": "B0FFM9T8NT",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.040153,
+        "纬度_GCJ02": 30.639144,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.040153,
+          30.639144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 27,
+        "original_81_row": 27,
+        "站点名称": "顺丰速运(SKP店)",
+        "地址": "中和街道四川省成都市高新区天府大道北段2001号负3楼",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;生活服务场所;生活服务场所",
+        "类型代码": 70000,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.0,
+        "POI_ID": "B0LR7UIK78",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.070814,
+        "纬度_GCJ02": 30.571794,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.070814,
+          30.571794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 28,
+        "original_81_row": 28,
+        "站点名称": "顺丰速运(致民路店)",
+        "地址": "致民东路13号附24号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.4,
+        "POI_ID": "B0FFHOR629",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.085645,
+        "纬度_GCJ02": 30.640823,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.085645,
+          30.640823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 29,
+        "original_81_row": 30,
+        "站点名称": "顺丰速运(永盛路店)",
+        "地址": "红牌楼街道永盛路63号1栋1层5号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.5,
+        "POI_ID": "B0FFI07MHX",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.02589,
+        "纬度_GCJ02": 30.633998,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.02589,
+          30.633998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 30,
+        "original_81_row": 31,
+        "站点名称": "顺丰速运(华西医院店)",
+        "地址": "玉林街道国学巷37号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.4,
+        "POI_ID": "B0HRU7H4S7",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.060891,
+        "纬度_GCJ02": 30.6418,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.060891,
+          30.6418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 31,
+        "original_81_row": 32,
+        "站点名称": "顺丰速运(三元社区店)",
+        "地址": "石羊街道仁和南街16.18.20号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.4,
+        "POI_ID": "B0IDCDW3NJ",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.029648,
+        "纬度_GCJ02": 30.580175,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.029648,
+          30.580175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 32,
+        "original_81_row": 33,
+        "站点名称": "顺丰速运(双丰西路店)",
+        "地址": "红牌楼街道双丰西路18号附9号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.4,
+        "POI_ID": "B0FFGFIRZT",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.014,
+        "纬度_GCJ02": 30.639,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.014,
+          30.639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 33,
+        "original_81_row": 34,
+        "站点名称": "顺丰速运(优博广场店)",
+        "地址": "金花桥街道金履一路218号优博广场1栋103号一楼四川顺丰速运有限公司",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.5,
+        "POI_ID": "B001C7YIM4",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 103.983354,
+        "纬度_GCJ02": 30.603497,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.983354,
+          30.603497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 34,
+        "original_81_row": 35,
+        "站点名称": "顺丰速运(金花店)",
+        "地址": "簇桥街道成双大道中段942号内左边铺面",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.5,
+        "POI_ID": "B0FFHPR09N",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 103.976056,
+        "纬度_GCJ02": 30.603827,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.976056,
+          30.603827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 35,
+        "original_81_row": 36,
+        "站点名称": "顺丰速运(簇锦家园店)",
+        "地址": "新蕾路27号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.6,
+        "POI_ID": "B0FFHLA64J",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 103.99605,
+        "纬度_GCJ02": 30.597334,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.99605,
+          30.597334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 36,
+        "original_81_row": 37,
+        "站点名称": "顺丰速运(锦城湖岸1店)",
+        "地址": "石羊街道天府1街616号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.2,
+        "POI_ID": "B0J0NUCLYP",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.053799,
+        "纬度_GCJ02": 30.561893,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.053799,
+          30.561893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 37,
+        "original_81_row": 38,
+        "站点名称": "顺丰速运(晋沙街店)",
+        "地址": "晋阳街道四川省成都市武侯区晋沙街17号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.2,
+        "POI_ID": "B0K1H5P6RS",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.006391,
+        "纬度_GCJ02": 30.652609,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.006391,
+          30.652609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 38,
+        "original_81_row": 39,
+        "站点名称": "顺丰速运(龙湖世纪峰景店)",
+        "地址": "桂溪街道龙湖世纪4号门上扶梯右边",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;生活服务场所;生活服务场所",
+        "类型代码": 70000,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.1,
+        "POI_ID": "B0LRMUY9YF",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.079475,
+        "纬度_GCJ02": 30.557625,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.079475,
+          30.557625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 39,
+        "original_81_row": 40,
+        "站点名称": "顺丰速运(西南民大店)",
+        "地址": "浆洗街街道一环路南四段16号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.0,
+        "POI_ID": "B0K3CK435F",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.049751,
+        "纬度_GCJ02": 30.636676,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.049751,
+          30.636676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 40,
+        "original_81_row": 41,
+        "站点名称": "顺丰速运(桐梓林壹号店)",
+        "地址": "Oh My Dog宠物生活馆北门旁",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.0,
+        "POI_ID": "B0IUCZRR0C",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.056528,
+        "纬度_GCJ02": 30.605194,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.056528,
+          30.605194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 41,
+        "original_81_row": 42,
+        "站点名称": "顺丰速运(南创业路店)",
+        "地址": "火车南站街道广和一街164号5号库",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.5,
+        "POI_ID": "B0HKAUJLFN",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.063231,
+        "纬度_GCJ02": 30.606133,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.063231,
+          30.606133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 42,
+        "original_81_row": 43,
+        "站点名称": "顺丰速运(驿收法馨苑店)",
+        "地址": "肖家河街道新乐中街295号神仙树馨苑",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;生活服务场所;生活服务场所",
+        "类型代码": 70000,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.2,
+        "POI_ID": "B0HDTYLAYD",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.037361,
+        "纬度_GCJ02": 30.609134,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.037361,
+          30.609134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 43,
+        "original_81_row": 44,
+        "站点名称": "顺丰速运(府河菜市店)",
+        "地址": "石羊街道昆和路88号附119号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;生活服务场所;生活服务场所",
+        "类型代码": 70000,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.2,
+        "POI_ID": "B0JRYK2G4D",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.044228,
+        "纬度_GCJ02": 30.589961,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.044228,
+          30.589961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 44,
+        "original_81_row": 45,
+        "站点名称": "顺丰速运(武青西四路店)",
+        "地址": "簇桥街道金兴北路198号1楼(顺丰速运)",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.5,
+        "POI_ID": "B0K3UPROHU",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 103.964959,
+        "纬度_GCJ02": 30.632066,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.964959,
+          30.632066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 45,
+        "original_81_row": 46,
+        "站点名称": "顺丰速运(和平佳苑店)",
+        "地址": "火车南站街道武侯区和平佳苑(天仁北二街南)",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.4,
+        "POI_ID": "B0JKT786YF",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.07339,
+        "纬度_GCJ02": 30.60516,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.07339,
+          30.60516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 46,
+        "original_81_row": 47,
+        "站点名称": "顺丰速运(招商大魔方店)",
+        "地址": "桂溪街道天府大道中段1777号招商大魔方易收发",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;生活服务场所;生活服务场所",
+        "类型代码": 70000,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.2,
+        "POI_ID": "B0LGOL8DAC",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.073325,
+        "纬度_GCJ02": 30.575075,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.073325,
+          30.575075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 47,
+        "original_81_row": 48,
+        "站点名称": "顺丰速运(中华名园店)",
+        "地址": "红牌楼街道顺和横街28号底商",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.5,
+        "POI_ID": "B0J0TDU2ZX",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.000675,
+        "纬度_GCJ02": 30.635575,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.000675,
+          30.635575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 48,
+        "original_81_row": 49,
+        "站点名称": "顺丰速运(焱驰商贸部店)",
+        "地址": "肖家河街道新乐南街180号顺丰驿站(美固佳牙科旁)",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;生活服务场所;生活服务场所",
+        "类型代码": 70000,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.2,
+        "POI_ID": "B0LRMUY2JJ",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.04118,
+        "纬度_GCJ02": 30.602605,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.04118,
+          30.602605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 49,
+        "original_81_row": 50,
+        "站点名称": "顺丰速运(希顿国际广场店)",
+        "地址": "天府大道中段666号希顿国际广场C座",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 3.8,
+        "POI_ID": "B0LA5LTAQ4",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.068025,
+        "纬度_GCJ02": 30.548525,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.068025,
+          30.548525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 50,
+        "original_81_row": 51,
+        "站点名称": "顺丰速运合作点(石羊场路店)",
+        "地址": "石羊场路109号顺丰速运合作点",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.1,
+        "POI_ID": "B0L2P6Q610",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.040416,
+        "纬度_GCJ02": 30.578019,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.040416,
+          30.578019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 51,
+        "original_81_row": 52,
+        "站点名称": "顺丰速运(英郡一期南门店)",
+        "地址": "桂溪街道天华路512号英郡一期南门",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;生活服务场所;生活服务场所",
+        "类型代码": 70000,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.1,
+        "POI_ID": "B0LRB5NG4F",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.073281,
+        "纬度_GCJ02": 30.544535,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.073281,
+          30.544535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 52,
+        "original_81_row": 53,
+        "站点名称": "顺丰速运(芳草街店)",
+        "地址": "芳草街街道神仙树北路2号附4号顺丰速运",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.4,
+        "POI_ID": "B0KR7ALHLX",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.049668,
+        "纬度_GCJ02": 30.622767,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.049668,
+          30.622767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 53,
+        "original_81_row": 54,
+        "站点名称": "顺丰速运(绿地GIC成都中央广场店)",
+        "地址": "高攀路飞云三巷60号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.4,
+        "POI_ID": "B0H2H1KM57",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.080301,
+        "纬度_GCJ02": 30.617485,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.080301,
+          30.617485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 54,
+        "original_81_row": 55,
+        "站点名称": "顺丰速运(康桥雅舍店)",
+        "地址": "芳草街街道紫竹南二街6号、8号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;生活服务场所;生活服务场所",
+        "类型代码": 70000,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.5,
+        "POI_ID": "B0K32HCAMA",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.055448,
+        "纬度_GCJ02": 30.61087,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.055448,
+          30.61087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 55,
+        "original_81_row": 56,
+        "站点名称": "顺丰速运(科韵路店)",
+        "地址": "肖家河街道科韵路368号一楼",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.5,
+        "POI_ID": "B0J3ZZQ9FM",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.027528,
+        "纬度_GCJ02": 30.616114,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.027528,
+          30.616114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 56,
+        "original_81_row": 57,
+        "站点名称": "顺丰速运(小天南街店)",
+        "地址": "玉林街道小天南街8号附9号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.5,
+        "POI_ID": "B0FFJAM6QO",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.057636,
+        "纬度_GCJ02": 30.634807,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.057636,
+          30.634807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 57,
+        "original_81_row": 58,
+        "站点名称": "顺丰速运(桃李园店)",
+        "地址": "长盛巷31号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.2,
+        "POI_ID": "B0LU5ALGIL",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.079903,
+        "纬度_GCJ02": 30.609714,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.079903,
+          30.609714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 58,
+        "original_81_row": 59,
+        "站点名称": "顺丰速运(天府汇城店)",
+        "地址": "火车南站街道天府汇城",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.1,
+        "POI_ID": "B0J3GD15Z9",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.075261,
+        "纬度_GCJ02": 30.618722,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.075261,
+          30.618722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 59,
+        "original_81_row": 60,
+        "站点名称": "顺丰速运(来福士店)",
+        "地址": "玉林街道人民南路四段3号负一楼卸货区",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;生活服务场所;生活服务场所",
+        "类型代码": 70000,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.3,
+        "POI_ID": "B0LRGHT986",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.067936,
+        "纬度_GCJ02": 30.631852,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.067936,
+          30.631852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 60,
+        "original_81_row": 61,
+        "站点名称": "顺丰速运(东华电脑城店)",
+        "地址": "望江路街道新南路101号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;生活服务场所;生活服务场所",
+        "类型代码": 70000,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.1,
+        "POI_ID": "B0LRGHTO4I",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.076945,
+        "纬度_GCJ02": 30.635628,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.076945,
+          30.635628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 61,
+        "original_81_row": 62,
+        "站点名称": "顺丰速运(高碑瑞苑店)",
+        "地址": "红牌楼街道太平园中六路10号一楼",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;生活服务场所;生活服务场所",
+        "类型代码": 70000,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.4,
+        "POI_ID": "B0KDP1AB69",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.004848,
+        "纬度_GCJ02": 30.626244,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.004848,
+          30.626244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 62,
+        "original_81_row": 63,
+        "站点名称": "顺丰速运(磨子巷店)",
+        "地址": "火车南站街道四川省武侯区磨子街磨子巷8号附4号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.4,
+        "POI_ID": "B0IAXS2GWA",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.074528,
+        "纬度_GCJ02": 30.630155,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.074528,
+          30.630155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 63,
+        "original_81_row": 64,
+        "站点名称": "顺丰速运(雍湖湾店)",
+        "地址": "石羊街道盛华南路116号一楼",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.1,
+        "POI_ID": "B0LR7UIK58",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.050474,
+        "纬度_GCJ02": 30.559843,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.050474,
+          30.559843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 64,
+        "original_81_row": 65,
+        "站点名称": "顺丰速运(保利心语店)",
+        "地址": "石羊街道富华南路1702号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.2,
+        "POI_ID": "B0K2BOFO53",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.042134,
+        "纬度_GCJ02": 30.545535,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.042134,
+          30.545535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 65,
+        "original_81_row": 66,
+        "站点名称": "顺丰速运(科分院店)",
+        "地址": "玉林街道玉林北路社区居委会武侯区人民南路四段9号21栋1单元1层3号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;生活服务场所;生活服务场所",
+        "类型代码": 70000,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.1,
+        "POI_ID": "B0JDFLSI0I",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.072207,
+        "纬度_GCJ02": 30.632513,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.072207,
+          30.632513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 66,
+        "original_81_row": 67,
+        "站点名称": "顺丰速运(川大华西校区店)",
+        "地址": "望江路街道人民南路三段17号1层",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;生活服务场所;生活服务场所",
+        "类型代码": 70000,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.1,
+        "POI_ID": "B0LRGHTO0M",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.06496,
+        "纬度_GCJ02": 30.639712,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.06496,
+          30.639712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 67,
+        "original_81_row": 69,
+        "站点名称": "顺丰速运(清江雅舍店)",
+        "地址": "晋阳街道晋阳路248号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;生活服务场所;生活服务场所",
+        "类型代码": 70000,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.4,
+        "POI_ID": "B0LRGHTVXS",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 103.997907,
+        "纬度_GCJ02": 30.650634,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.997907,
+          30.650634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 68,
+        "original_81_row": 70,
+        "站点名称": "顺丰速运(晋吉东二路店)",
+        "地址": "晋阳街道晋吉北路66号附10号1层",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;生活服务场所;生活服务场所",
+        "类型代码": 70000,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.2,
+        "POI_ID": "B0LRGHT95E",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.003704,
+        "纬度_GCJ02": 30.640531,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.003704,
+          30.640531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 69,
+        "original_81_row": 72,
+        "站点名称": "顺丰速运(力德时代店)",
+        "地址": "簇锦街道武侯区武科东三路3号附4号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;生活服务场所;生活服务场所",
+        "类型代码": 70000,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.4,
+        "POI_ID": "B0LRGHT97Y",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 103.990237,
+        "纬度_GCJ02": 30.632975,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.990237,
+          30.632975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 70,
+        "original_81_row": 73,
+        "站点名称": "顺丰速运(保利花园二期店)",
+        "地址": "簇锦街道聚贤街717号顺丰驿收发",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.3,
+        "POI_ID": "B0J3HSNGMY",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 103.993957,
+        "纬度_GCJ02": 30.621019,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.993957,
+          30.621019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 71,
+        "original_81_row": 74,
+        "站点名称": "顺丰速运(蓝光诺丁山店)",
+        "地址": "武兴一路2号附12号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 3.8,
+        "POI_ID": "B0H06AE0O4",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 103.995364,
+        "纬度_GCJ02": 30.628868,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.995364,
+          30.628868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 72,
+        "original_81_row": 75,
+        "站点名称": "顺丰速运(西派城B区店)",
+        "地址": "簇桥街道新城社区居委会来凤2路126号西派城B区",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.2,
+        "POI_ID": "B0K01DD30E",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 103.981527,
+        "纬度_GCJ02": 30.614519,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.981527,
+          30.614519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 73,
+        "original_81_row": 76,
+        "站点名称": "顺丰速运(王府花园5幢店)",
+        "地址": "芳草街街道沙子堰社区居委会芳草街6号王府花园五栋二单元附7号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;生活服务场所;生活服务场所",
+        "类型代码": 70000,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.2,
+        "POI_ID": "B0JR2SCLH2",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.053625,
+        "纬度_GCJ02": 30.631425,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.053625,
+          30.631425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 74,
+        "original_81_row": 77,
+        "站点名称": "顺丰速运(纳米爱邸店)",
+        "地址": "浆洗街街道少陵路横街5号锦宏纳米爱邸一楼",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;生活服务场所;生活服务场所",
+        "类型代码": 70000,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.3,
+        "POI_ID": "B0LRGHT238",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.028553,
+        "纬度_GCJ02": 30.649191,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.028553,
+          30.649191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 75,
+        "original_81_row": 78,
+        "站点名称": "顺丰速运(美泉悦府店)",
+        "地址": "机投桥街道美泉悦府5栋顺丰驿收发221号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;生活服务场所;生活服务场所",
+        "类型代码": 70000,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.3,
+        "POI_ID": "B0LRMUXRZT",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 103.97298,
+        "纬度_GCJ02": 30.640439,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.97298,
+          30.640439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 76,
+        "original_81_row": 79,
+        "站点名称": "顺丰速运(保利四期店)",
+        "地址": "兆景路450号7栋附15、16号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.1,
+        "POI_ID": "B0L24DOX13",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 103.989904,
+        "纬度_GCJ02": 30.622618,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.989904,
+          30.622618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 77,
+        "original_81_row": 80,
+        "站点名称": "顺丰速运(天街枫香庭店)",
+        "地址": "晋阳街道晋阳社区居委会金楠天街二期枫香庭大门口",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;生活服务场所;生活服务场所",
+        "类型代码": 70000,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 4.2,
+        "POI_ID": "B0LRMUXN9Y",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 103.994734,
+        "纬度_GCJ02": 30.647786,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.994734,
+          30.647786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sf78_id": 78,
+        "original_81_row": 81,
+        "站点名称": "顺丰速运合作点(中海翠屏湾店)",
+        "地址": "泰和二街285号",
+        "区域": "武侯区",
+        "街道": "成都市",
+        "类型": "生活服务;物流速递;物流速递",
+        "类型代码": 70500,
+        "电话": null,
+        "邮编": null,
+        "网址": null,
+        "营业时间": null,
+        "评分": 3.9,
+        "POI_ID": "B0L1Y7EG6S",
+        "省份": "四川省",
+        "城市": "成都市",
+        "数据来源": "高德地图API v5",
+        "抓取时间": "2025-12-18 07:27:18",
+        "经度_GCJ02": 104.052551,
+        "纬度_GCJ02": 30.600146,
+        "coordinate_note": "Original coordinates are GCJ-02 lon/lat fields; GeoJSON written in [longitude, latitude] order."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.052551,
+          30.600146
+        ]
+      }
+    }
+  ]
+}

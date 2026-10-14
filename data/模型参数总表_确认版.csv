@@ -1,0 +1,54 @@
+﻿类别,参数名称,代码变量,确认值,说明
+情景,无预算约束,no_budget_range,固定成本仅进入Z1,不设置固定成本预算上下限
+服务范围,最大末端接驳距离,D_k_max,4.0 km,转运点至顺丰站点的4km服务边界
+空间约束,转运点最小间距,min_station_distance,2.0 km,距离小于该阈值的候选转运点不能同时启用
+线路约束,每条线路最多转运点数,max_open_per_line,3,每条地铁线路最多设置3个物流转运点
+路径约束,最大换乘次数,max_transfer_count,2,物流园区接入站至转运点路径最大允许换乘次数
+转运点容量,转运点容量符号,U_k / station_capacity,5000/7000/10000,站点平峰作业周期综合处理能力
+转运点容量,小型站容量,SL_capacity,5000 件/平峰作业周期,对应站点类型SL
+转运点容量,换乘站容量,TR_capacity,7000 件/平峰作业周期,对应站点类型TR
+转运点容量,枢纽站容量,HB_capacity,10000 件/平峰作业周期,对应站点类型HB
+转运点固定成本,小型站固定成本,SL_fixed_cost,8000 元/日,既有站点货运化启用成本
+转运点固定成本,换乘站固定成本,TR_fixed_cost,12000 元/日,换乘协调复杂度更高
+转运点固定成本,枢纽站固定成本,HB_fixed_cost,16000 元/日,枢纽型综合作业点
+负载率,最低负载率,min_load_rate,0.15,避免无效开站但保留补盲站点灵活性
+负载率,最高负载率,max_load_rate,0.85,保留15%安全与作业冗余
+列车班次,每条线路可用班次,available_train_trips,5,平峰期可用于货运组织的既有列车班次
+列车容量,单趟列车容量,line_capacity,按线路读取,由整列车可装箱数_件表示单趟容量
+班次组织成本,货运班次组织成本率,train_organization_cost_rate,0.06 元/件,theta^{fre};满载分摊的组织成本
+碳价格,碳价格,carbon_price,0.10 元/kgCO2,碳成本=排放因子×碳价格
+排放因子,公路排放因子,road_emission_factor,3.0e-4 kg/(件·km),用于公路运输与接入段
+排放因子,地铁排放因子,metro_emission_factor,3.0e-5 kg/(件·km),用于地铁运输段
+排放因子,末端接驳排放因子,feeder_emission_factor,1.0e-4 kg/(件·km),新能源/电动接驳口径
+成本处理,公路运输成本,road_transport_cost,保留,原公路兜底运营成本改名为公路运输成本
+算法,QVNS-NSGA-II,QVNS-NSGA-II,保留,主算法（Q11C最终配置）
+算法,学习率,alpha,0.15,QVNS-NSGA-II最终配置
+算法,折扣因子,gamma,0.88,QVNS-NSGA-II最终配置
+算法,初始探索率,epsilon,0.30,QVNS-NSGA-II最终配置
+算法,最小探索率,epsilon_min,0.010,QVNS-NSGA-II最终配置
+算法,探索率衰减,epsilon_decay,"_epsilon_decay_for_target(0.30, 0.010, args.max_gen)",按目标最终探索率自动计算
+算法,VNS间隔,vns_interval,0,采用自适应VNS触发
+算法,VNS模式,vns_mode,adaptive,用于减少无效局部搜索
+算法,VNS精英比例,vns_elite_rate,0.12,QVNS-NSGA-II最终配置
+算法,VNS每邻域尝试次数,vns_trials_per_neighborhood,2,QVNS-NSGA-II最终配置
+算法,VNS最大邻域数,vns_max_neighborhood,3,QVNS-NSGA-II最终配置
+算法,Archive规模,archive_size,"max(args.pop_size, int(round(2.5 * args.pop_size)))",Q11C最终配置
+算法,Q-learning动作应用比例,q_action_apply_rate,0.25,QVNS-NSGA-II最终配置（第五章Q11C复现口径）
+算法,Archive边界保留率,archive_boundary_keep_rate,0.20,QVNS-NSGA-II最终配置
+算法,VNS候选策略,vns_candidate_strategy,mixed,QVNS-NSGA-II最终配置
+算法,停滞窗口,stagnation_window,10,QVNS-NSGA-II最终配置
+算法,HV改进阈值,hv_improvement_threshold,0.0025,QVNS-NSGA-II最终配置
+算法,最小VNS间隔,min_vns_gap,5,QVNS-NSGA-II最终配置
+成本处理,时间成本处理口径,removed_time_monetization,不进入目标函数,时间指标不再折算为货币成本，避免与运营成本重复；仅可作为服务水平统计。
+成本处理,公路基础处理成本处理口径,removed_road_basic_handling,不进入目标函数,基础分拣、交接和装卸视为方案共同成本，不作为公路差异化成本。
+算法调优,QVNS默认增强调优组配置表,QVNS_TUNING_GROUPS_Q3_Q7_Q11,见 data/补充约束数据/QVNS调优参数组_Q3_Q7_Q11.csv,默认与基础消融组一起比较Q3和Q7-Q11参数效果；Q1-Q6表保留用于复现
+算法调优,消融实验比较模式,comparison_mode,all / ablation / tuning,all同时比较NSGA-II、VNS-only、Q-learning-only和默认调优组Q3/Q7/Q8/Q9/Q10/Q11
+算法调优,VNS最大邻域数,vns_max_neighborhood,Q3/Q7/Q8/Q10/Q11为4;Q9为3,用于控制局部搜索邻域深度
+算法调优,自适应VNS触发,vns_mode=adaptive,Q9/Q11启用,当最近若干代HV改进低于阈值时触发VNS以减少无效局部搜索
+
+算法调优,外部非支配档案,external_archive,Q7-Q11启用,用于保留历史非支配解并提高唯一解数
+算法调优,边界解保留比例,archive_boundary_keep_rate,Q7=0.15;Q8/Q10/Q11=0.25;Q9=0.20,用于保留成本端和服务端边界解并改善Spacing
+
+
+
+
