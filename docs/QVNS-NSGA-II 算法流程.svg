@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1580" viewBox="0 0 1500 1580" version="1.1">
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#52616F"/></marker><style><![CDATA[text{font-family:"Microsoft YaHei","SimHei","Noto Sans CJK SC","Source Han Sans SC",Arial,sans-serif;dominant-baseline:middle;}]]></style></defs>
+<rect width="1500" height="1580" fill="#FFFFFF"/>
+<text x="60" y="50" font-size="26" font-weight="700" fill="#1F2933">QVNS-NSGA-II 算法流程图</text>
+<text x="60" y="84" font-size="13" fill="#607080">垂直主流程 + 右侧增强模块 + 底部档案反馈，减少跨区连线和回边交叉</text>
+<rect x="70" y="125" width="405" height="850" rx="16" fill="#F8FBFD" stroke="#2E5E73" stroke-width="1.8" stroke-dasharray="8 5"/>
+<text x="86" y="149" text-anchor="start" font-size="15" font-weight="700" fill="#2E5E73">NSGA-II 主流程</text>
+<rect x="535" y="500" width="395" height="250" rx="16" fill="#F8FCF9" stroke="#3E7C59" stroke-width="1.8" stroke-dasharray="8 5"/>
+<text x="551" y="524" text-anchor="start" font-size="15" font-weight="700" fill="#3E7C59">Q-learning 动作选择</text>
+<rect x="535" y="760" width="680" height="250" rx="16" fill="#FFFBF5" stroke="#B96B18" stroke-width="1.8" stroke-dasharray="8 5"/>
+<text x="551" y="784" text-anchor="start" font-size="15" font-weight="700" fill="#B96B18">VNS 局部增强</text>
+<rect x="70" y="995" width="1370" height="405" rx="16" fill="#FBFAFE" stroke="#6B5CA5" stroke-width="1.8" stroke-dasharray="8 5"/>
+<text x="86" y="1019" text-anchor="start" font-size="15" font-weight="700" fill="#6B5CA5">外部档案与 safeguard</text>
+<rect x="110" y="145" width="330" height="52" rx="10" fill="#EAF3F8" stroke="#2E5E73" stroke-width="1.5"/>
+<text x="275.0" y="173.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1F2933">输入基础数据与算法参数</text>
+<rect x="110" y="215" width="330" height="52" rx="10" fill="#EAF3F8" stroke="#2E5E73" stroke-width="1.5"/>
+<text x="275.0" y="243.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1F2933">构建地铁物流选址实例</text>
+<rect x="110" y="285" width="330" height="52" rx="10" fill="#FFF8DD" stroke="#B68A00" stroke-width="1.5"/>
+<text x="275.0" y="313.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1F2933">初始化种群并执行约束修复</text>
+<rect x="95" y="355" width="360" height="68" rx="10" fill="#FFF8DD" stroke="#B68A00" stroke-width="1.5"/>
+<text x="275.0" y="382.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1F2933">计算目标值 Z1 与 -Z2</text>
+<text x="275.0" y="400.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1F2933">以及约束违反程度 CV</text>
+<rect x="95" y="445" width="360" height="58" rx="10" fill="#F1ECFA" stroke="#6B5CA5" stroke-width="1.5"/>
+<text x="275.0" y="476.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1F2933">初始化外部 Pareto 档案与 Q 表</text>
+<rect x="95" y="535" width="360" height="58" rx="10" fill="#EAF3F8" stroke="#2E5E73" stroke-width="1.5"/>
+<text x="275.0" y="566.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1F2933">约束非支配排序与拥挤距离计算</text>
+<rect x="110" y="625" width="330" height="52" rx="10" fill="#EAF3F8" stroke="#2E5E73" stroke-width="1.5"/>
+<text x="275.0" y="653.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1F2933">锦标赛选择父代</text>
+<rect x="110" y="695" width="330" height="52" rx="10" fill="#EAF3F8" stroke="#2E5E73" stroke-width="1.5"/>
+<text x="275.0" y="723.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1F2933">交叉生成子代</text>
+<rect x="110" y="765" width="330" height="52" rx="10" fill="#ECF7F0" stroke="#3E7C59" stroke-width="1.5"/>
+<text x="275.0" y="793.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1F2933">按所选动作执行变异</text>
+<rect x="110" y="835" width="330" height="52" rx="10" fill="#EAF3F8" stroke="#2E5E73" stroke-width="1.5"/>
+<text x="275.0" y="863.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1F2933">子代修复与评价</text>
+<rect x="110" y="905" width="330" height="52" rx="10" fill="#F7F9FC" stroke="#98A2B3" stroke-width="1.5"/>
+<text x="275.0" y="933.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1F2933">合并父代、子代与候选解</text>
+<rect x="565" y="530" width="330" height="72" rx="10" fill="#ECF7F0" stroke="#3E7C59" stroke-width="1.5"/>
+<text x="730.0" y="559.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1F2933">构造 Q-learning 状态</text>
+<text x="730.0" y="577.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1F2933">进度 / 可行解比例 / 非支配解比例</text>
+<rect x="565" y="640" width="330" height="84" rx="10" fill="#ECF7F0" stroke="#3E7C59" stroke-width="1.5"/>
+<text x="730.0" y="675.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1F2933">ε-greedy 选择搜索动作</text>
+<text x="730.0" y="693.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1F2933">保守 / 基准 / 多样化 / 服务 / 成本</text>
+<polygon points="690.0,805 815,853.0 690.0,901 565,853.0" fill="#FFF2E0" stroke="#B96B18" stroke-width="1.8"/>
+<text x="690.0" y="855.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1F2933">外部档案 HV 是否停滞?</text>
+<rect x="880" y="775" width="300" height="52" rx="10" fill="#FFF4E6" stroke="#B96B18" stroke-width="1.5"/>
+<text x="1030.0" y="803.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1F2933">选择档案精英解</text>
+<rect x="880" y="850" width="300" height="52" rx="10" fill="#FFF4E6" stroke="#B96B18" stroke-width="1.5"/>
+<text x="1030.0" y="878.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1F2933">执行 VNS 多邻域局部搜索</text>
+<rect x="880" y="935" width="300" height="52" rx="10" fill="#F7F9FC" stroke="#98A2B3" stroke-width="1.5"/>
+<text x="1030.0" y="963.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1F2933">跳过 VNS</text>
+<path d="M95,1029 C95,1011 455,1011 455,1029 L455,1087 C455,1105 95,1105 95,1087 Z" fill="#F1ECFA" stroke="#6B5CA5" stroke-width="1.8"/>
+<ellipse cx="275.0" cy="1029" rx="180.0" ry="14" fill="#F1ECFA" stroke="#6B5CA5" stroke-width="1.8"/>
+<text x="275.0" y="1060.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1F2933">更新外部 Pareto 档案</text>
+<rect x="535" y="1018" width="330" height="68" rx="10" fill="#EAF3F8" stroke="#2E5E73" stroke-width="1.5"/>
+<text x="700.0" y="1045.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1F2933">按非支配等级与拥挤距离</text>
+<text x="700.0" y="1063.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1F2933">选择下一代</text>
+<rect x="925" y="1018" width="330" height="58" rx="10" fill="#ECF7F0" stroke="#3E7C59" stroke-width="1.5"/>
+<text x="1090.0" y="1049.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1F2933">计算档案改进奖励</text>
+<polygon points="1090.0,1105 1220,1153.0 1090.0,1201 960,1153.0" fill="#FDEDEE" stroke="#B85450" stroke-width="1.8"/>
+<text x="1090.0" y="1155.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1F2933">奖励是否低于安全阈值?</text>
+<rect x="650" y="1126" width="260" height="52" rx="10" fill="#FDEDEE" stroke="#B85450" stroke-width="1.5"/>
+<text x="780.0" y="1154.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1F2933">回滚种群与档案</text>
+<rect x="1270" y="1100" width="160" height="52" rx="10" fill="#ECF7F0" stroke="#3E7C59" stroke-width="1.5"/>
+<text x="1350.0" y="1128.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1F2933">更新 Q 表</text>
+<rect x="1120" y="1225" width="260" height="52" rx="10" fill="#ECF7F0" stroke="#3E7C59" stroke-width="1.5"/>
+<text x="1250.0" y="1253.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1F2933">更新探索率 ε</text>
+<polygon points="810.0,1300 935,1348.0 810.0,1396 685,1348.0" fill="#FDEDEE" stroke="#B85450" stroke-width="1.8"/>
+<text x="810.0" y="1350.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1F2933">是否达到最大迭代次数?</text>
+<rect x="430" y="1450" width="300" height="56" rx="12" fill="#E9F6EF" stroke="#548235" stroke-width="2.1"/>
+<text x="580.0" y="1480.0" text-anchor="middle" font-size="13" font-weight="600" fill="#1F2933">输出 Pareto 解集</text>
+<rect x="850" y="1450" width="340" height="56" rx="12" fill="#E9F6EF" stroke="#548235" stroke-width="2.1"/>
+<text x="1020.0" y="1480.0" text-anchor="middle" font-size="13" font-weight="600" fill="#1F2933">选择折中方案并导出结果</text>
+<path d="M 275.0,197L 275.0,215" fill="none" stroke="#52616F" stroke-width="1.45" marker-end="url(#arrow)"/>
+<path d="M 275.0,267L 275.0,285" fill="none" stroke="#52616F" stroke-width="1.45" marker-end="url(#arrow)"/>
+<path d="M 275.0,337L 275.0,355" fill="none" stroke="#52616F" stroke-width="1.45" marker-end="url(#arrow)"/>
+<path d="M 275.0,423L 275.0,445" fill="none" stroke="#52616F" stroke-width="1.45" marker-end="url(#arrow)"/>
+<path d="M 275.0,503L 275.0,535" fill="none" stroke="#52616F" stroke-width="1.45" marker-end="url(#arrow)"/>
+<path d="M 275.0,593L 275.0,625" fill="none" stroke="#52616F" stroke-width="1.45" marker-end="url(#arrow)"/>
+<path d="M 275.0,677L 275.0,695" fill="none" stroke="#52616F" stroke-width="1.45" marker-end="url(#arrow)"/>
+<path d="M 275.0,747L 275.0,765" fill="none" stroke="#52616F" stroke-width="1.45" marker-end="url(#arrow)"/>
+<path d="M 275.0,817L 275.0,835" fill="none" stroke="#52616F" stroke-width="1.45" marker-end="url(#arrow)"/>
+<path d="M 275.0,887L 275.0,905" fill="none" stroke="#52616F" stroke-width="1.45" marker-end="url(#arrow)"/>
+<path d="M 455,564.0L 565,566.0" fill="none" stroke="#52616F" stroke-width="1.45" marker-end="url(#arrow)"/>
+<text x="510.0" y="558.0" text-anchor="middle" font-size="12" fill="#607080">状态指标</text>
+<path d="M 730.0,602L 730.0,640" fill="none" stroke="#52616F" stroke-width="1.45" marker-end="url(#arrow)"/>
+<path d="M 565,682.0L 440,791.0" fill="none" stroke="#52616F" stroke-width="1.45" marker-end="url(#arrow)"/>
+<text x="502.5" y="729.5" text-anchor="middle" font-size="12" fill="#607080">动作策略</text>
+<path d="M 275.0,957L 690.0,805" fill="none" stroke="#52616F" stroke-width="1.45" marker-end="url(#arrow)"/>
+<text x="482.5" y="874.0" text-anchor="middle" font-size="12" fill="#607080">档案 HV</text>
+<path d="M 690.0,901L 1030.0,775" fill="none" stroke="#52616F" stroke-width="1.45" marker-end="url(#arrow)"/>
+<text x="860.0" y="831.0" text-anchor="middle" font-size="12" fill="#607080">是</text>
+<path d="M 1030.0,827L 1030.0,850" fill="none" stroke="#52616F" stroke-width="1.45" marker-end="url(#arrow)"/>
+<path d="M 1030.0,902L 1030,980 L 1030,1058 L 455,1058.0" fill="none" stroke="#52616F" stroke-width="1.45" marker-end="url(#arrow)"/>
+<text x="742.5" y="973.0" text-anchor="middle" font-size="12" fill="#607080">改进解加入候选集</text>
+<path d="M 690.0,901L 1030.0,935" fill="none" stroke="#52616F" stroke-width="1.45" marker-end="url(#arrow)"/>
+<text x="860.0" y="911.0" text-anchor="middle" font-size="12" fill="#607080">否</text>
+<path d="M 1030.0,987L 1030,980 L 1030,1058 L 455,1058.0" fill="none" stroke="#52616F" stroke-width="1.45" marker-end="url(#arrow)"/>
+<path d="M 275.0,957L 275.0,1015" fill="none" stroke="#52616F" stroke-width="1.45" marker-end="url(#arrow)"/>
+<path d="M 275.0,1101L 700.0,1018" fill="none" stroke="#52616F" stroke-width="1.45" marker-end="url(#arrow)"/>
+<path d="M 700.0,1086L 1090.0,1018" fill="none" stroke="#52616F" stroke-width="1.45" marker-end="url(#arrow)"/>
+<path d="M 1090.0,1076L 1090.0,1105" fill="none" stroke="#52616F" stroke-width="1.45" marker-end="url(#arrow)"/>
+<path d="M 960,1153.0L 910,1152.0" fill="none" stroke="#52616F" stroke-width="1.45" marker-end="url(#arrow)"/>
+<text x="935.0" y="1145.5" text-anchor="middle" font-size="12" fill="#607080">是</text>
+<path d="M 1220,1153.0L 1270,1126.0" fill="none" stroke="#52616F" stroke-width="1.45" marker-end="url(#arrow)"/>
+<text x="1245.0" y="1132.5" text-anchor="middle" font-size="12" fill="#607080">否</text>
+<path d="M 780.0,1178L 1250.0,1225" fill="none" stroke="#52616F" stroke-width="1.45" marker-end="url(#arrow)"/>
+<path d="M 1350.0,1152L 1250.0,1225" fill="none" stroke="#52616F" stroke-width="1.45" marker-end="url(#arrow)"/>
+<path d="M 1250.0,1277L 810.0,1300" fill="none" stroke="#52616F" stroke-width="1.45" marker-end="url(#arrow)"/>
+<path d="M 685,1348.0L 805,1425 L 30,1425 L 30,564 L 95,564.0" fill="none" stroke="#52616F" stroke-width="1.45" marker-end="url(#arrow)"/>
+<text x="390.0" y="949.0" text-anchor="middle" font-size="12" fill="#607080">否</text>
+<path d="M 810.0,1396L 580.0,1450" fill="none" stroke="#52616F" stroke-width="1.45" marker-end="url(#arrow)"/>
+<text x="695.0" y="1416.0" text-anchor="middle" font-size="12" fill="#607080">是</text>
+<path d="M 580.0,1506L 1020.0,1450" fill="none" stroke="#52616F" stroke-width="1.45" marker-end="url(#arrow)"/>
+</svg>

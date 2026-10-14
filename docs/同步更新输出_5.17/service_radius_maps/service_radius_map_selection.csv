@@ -1,0 +1,4 @@
+﻿radius_km,run_id,seed,selection,topsis_cost,topsis_service_ratio,output_dir
+3.0,9,20290525.0,median,211065.75914366412,0.3250276377367052,D:\trae建模\metro_logistics_qvns_nsga2_package\metro_logistics_qvns_nsga2_package\docs\同步更新输出_5.17\service_radius_maps\radius_3p0km\run_09
+4.0,0,,manuscript_r4,,,D:\trae建模\metro_logistics_qvns_nsga2_package\metro_logistics_qvns_nsga2_package\docs\同步更新输出_5.17\service_radius_maps\radius_4p0km\manuscript_version
+5.0,9,20310525.0,median,195859.1462113816,0.3409308893306822,D:\trae建模\metro_logistics_qvns_nsga2_package\metro_logistics_qvns_nsga2_package\docs\同步更新输出_5.17\service_radius_maps\radius_5p0km\run_09

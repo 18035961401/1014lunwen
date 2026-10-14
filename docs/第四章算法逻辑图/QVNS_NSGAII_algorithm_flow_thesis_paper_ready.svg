@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="2700" viewBox="0 0 1600 2700">
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#334155"/></marker></defs>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="800.0" y="42.5" font-family="Microsoft YaHei" font-size="24.5" font-weight="700" fill="#0B1F3A" text-anchor="middle" dominant-baseline="middle"><tspan x="800.0" dy="0.0">QVNS-NSGA-II 算法逻辑流程图</tspan></text>
+<rect x="385.0" y="790.0" width="790.0" height="500.0" rx="8" fill="none" stroke="#6EA3FF" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="397.0" y="807.8" font-family="Microsoft YaHei" font-size="13.0" font-weight="400" fill="#2F6DB3" text-anchor="start" dominant-baseline="alphabetic"><tspan x="397.0" dy="0.0">本代搜索与 Q-learning 引导模块</tspan></text>
+<rect x="1115.0" y="1390.0" width="350.0" height="350.0" rx="8" fill="none" stroke="#3E8E41" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="1127.0" y="1407.8" font-family="Microsoft YaHei" font-size="13.0" font-weight="400" fill="#3E8E41" text-anchor="start" dominant-baseline="alphabetic"><tspan x="1127.0" dy="0.0">VNS 局部强化模块</tspan><tspan x="1127.0" dy="15.9">使用五类邻域操作</tspan></text>
+<rect x="250.0" y="2120.0" width="1100.0" height="250.0" rx="8" fill="none" stroke="#D74B4B" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="262.0" y="2137.8" font-family="Microsoft YaHei" font-size="13.0" font-weight="400" fill="#D74B4B" text-anchor="start" dominant-baseline="alphabetic"><tspan x="262.0" dy="0.0">稳定保护机制 Safeguard</tspan></text>
+<text x="1060.0" y="1495.0" font-family="Microsoft YaHei" font-size="12.0" font-weight="400" fill="#0B1F3A" text-anchor="middle" dominant-baseline="middle"><tspan x="1060.0" dy="0.0">是</tspan></text>
+<path d="M 940.0,1485.0 L 1050.0,1485.0 L 1050.0,1485.0 L 1160.0,1485.0" fill="none" stroke="#334155" stroke-width="2.0" marker-end="url(#arrow)"/>
+<path d="M 800.0,195.0 L 800.0,210.0 L 800.0,210.0 L 800.0,225.0" fill="none" stroke="#334155" stroke-width="2.0" marker-end="url(#arrow)"/>
+<path d="M 800.0,310.0 L 800.0,325.0 L 800.0,325.0 L 800.0,340.0" fill="none" stroke="#334155" stroke-width="2.0" marker-end="url(#arrow)"/>
+<path d="M 800.0,410.0 L 800.0,425.0 L 800.0,425.0 L 800.0,440.0" fill="none" stroke="#334155" stroke-width="2.0" marker-end="url(#arrow)"/>
+<path d="M 800.0,515.0 L 800.0,537.5 L 800.0,537.5 L 800.0,560.0" fill="none" stroke="#334155" stroke-width="2.0" marker-end="url(#arrow)"/>
+<path d="M 800.0,608.0 L 800.0,629.0 L 800.0,629.0 L 800.0,650.0" fill="none" stroke="#334155" stroke-width="2.0" marker-end="url(#arrow)"/>
+<path d="M 800.0,745.0 L 800.0,785.0 L 800.0,785.0 L 800.0,825.0" fill="none" stroke="#334155" stroke-width="2.0" marker-end="url(#arrow)"/>
+<text x="805.0" y="779.0" font-family="Microsoft YaHei" font-size="13" fill="#334155">否</text>
+<path d="M 940.0,697.5 L 1080.0,697.5 L 1080.0,697.5 L 1220.0,697.5" fill="none" stroke="#334155" stroke-width="2.0" marker-end="url(#arrow)"/>
+<text x="1085.0" y="691.5" font-family="Microsoft YaHei" font-size="13" fill="#334155">是</text>
+<path d="M 1375.0,732.5 L 1375.0,761.2 L 1375.0,761.2 L 1375.0,790.0" fill="none" stroke="#334155" stroke-width="2.0" marker-end="url(#arrow)"/>
+<path d="M 1375.0,930.0 L 1375.0,965.0 L 1375.0,965.0 L 1375.0,1000.0" fill="none" stroke="#334155" stroke-width="2.0" marker-end="url(#arrow)"/>
+<path d="M 800.0,895.0 L 800.0,907.5 L 800.0,907.5 L 800.0,920.0" fill="none" stroke="#334155" stroke-width="2.0" marker-end="url(#arrow)"/>
+<path d="M 800.0,990.0 L 800.0,1005.0 L 800.0,1005.0 L 800.0,1020.0" fill="none" stroke="#334155" stroke-width="2.0" marker-end="url(#arrow)"/>
+<path d="M 800.0,1090.0 L 800.0,1105.0 L 800.0,1105.0 L 800.0,1120.0" fill="none" stroke="#334155" stroke-width="2.0" marker-end="url(#arrow)"/>
+<path d="M 800.0,1190.0 L 800.0,1200.0 L 800.0,1200.0 L 800.0,1210.0" fill="none" stroke="#334155" stroke-width="2.0" marker-end="url(#arrow)"/>
+<path d="M 800.0,1280.0 L 800.0,1297.5 L 800.0,1297.5 L 800.0,1315.0" fill="none" stroke="#334155" stroke-width="2.0" marker-end="url(#arrow)"/>
+<path d="M 800.0,1385.0 L 800.0,1410.0 L 800.0,1410.0 L 800.0,1435.0" fill="none" stroke="#334155" stroke-width="2.0" marker-end="url(#arrow)"/>
+<path d="M 1295.0,1525.0 L 1295.0,1537.5 L 1295.0,1537.5 L 1295.0,1550.0" fill="none" stroke="#334155" stroke-width="2.0" marker-end="url(#arrow)"/>
+<path d="M 1295.0,1645.0 L 1295.0,1660.0 L 1295.0,1660.0 L 1295.0,1675.0" fill="none" stroke="#334155" stroke-width="2.0" marker-end="url(#arrow)"/>
+<path d="M 1160.0,1712.5 L 1122.5,1712.5 L 1122.5,1615.0 L 1085.0,1615.0" fill="none" stroke="#334155" stroke-width="2.0" marker-end="url(#arrow)"/>
+<path d="M 800.0,1535.0 L 800.0,1557.5 L 800.0,1557.5 L 800.0,1580.0" fill="none" stroke="#334155" stroke-width="2.0" marker-end="url(#arrow)"/>
+<text x="805.0" y="1551.5" font-family="Microsoft YaHei" font-size="13" fill="#334155">否</text>
+<path d="M 800.0,1650.0 L 800.0,1670.0 L 800.0,1670.0 L 800.0,1690.0" fill="none" stroke="#334155" stroke-width="2.0" marker-end="url(#arrow)"/>
+<path d="M 800.0,1765.0 L 800.0,1780.0 L 800.0,1780.0 L 800.0,1795.0" fill="none" stroke="#334155" stroke-width="2.0" marker-end="url(#arrow)"/>
+<path d="M 800.0,1870.0 L 800.0,1885.0 L 800.0,1885.0 L 800.0,1900.0" fill="none" stroke="#334155" stroke-width="2.0" marker-end="url(#arrow)"/>
+<path d="M 800.0,1975.0 L 800.0,1990.0 L 800.0,1990.0 L 800.0,2005.0" fill="none" stroke="#334155" stroke-width="2.0" marker-end="url(#arrow)"/>
+<path d="M 800.0,2085.0 L 800.0,2122.5 L 800.0,2122.5 L 800.0,2160.0" fill="none" stroke="#334155" stroke-width="2.0" marker-end="url(#arrow)"/>
+<path d="M 660.0,2207.5 L 630.0,2207.5 L 630.0,2210.0 L 600.0,2210.0" fill="none" stroke="#334155" stroke-width="2.0" marker-end="url(#arrow)"/>
+<text x="635.0" y="2204.0" font-family="Microsoft YaHei" font-size="13" fill="#334155">是</text>
+<path d="M 940.0,2207.5 L 970.0,2207.5 L 970.0,2210.0 L 1000.0,2210.0" fill="none" stroke="#334155" stroke-width="2.0" marker-end="url(#arrow)"/>
+<text x="975.0" y="2204.0" font-family="Microsoft YaHei" font-size="13" fill="#334155">否</text>
+<path d="M 600.0,2210.0 L 557.5,2210.0 L 557.5,2415.0 L 515.0,2415.0" fill="none" stroke="#334155" stroke-width="2.0" marker-end="url(#arrow)"/>
+<path d="M 1000.0,2210.0 L 1042.5,2210.0 L 1042.5,2415.0 L 1085.0,2415.0" fill="none" stroke="#334155" stroke-width="2.0" marker-end="url(#arrow)"/>
+<path d="M 800.0,2450.0 L 800.0,2465.0 L 800.0,2465.0 L 800.0,2480.0" fill="none" stroke="#334155" stroke-width="2.0" marker-end="url(#arrow)"/>
+<rect x="120.0" y="75.0" width="1360.0" height="48.0" rx="8" fill="#F6FAFF" stroke="#9DB9DF" stroke-width="1.2"/>
+<text x="800.0" y="99.0" font-family="Microsoft YaHei" font-size="13.0" font-weight="400" fill="#173A6A" text-anchor="middle" dominant-baseline="middle"><tspan x="800.0" dy="0.0">核心逻辑：以 NSGA-II 为代际主循环，Q-learning 自适应选择变异引导策略，VNS 使用五类邻域操作开展局部强化，外部档案 Archive 维护非支配解集，稳定保护机制 Safeguard 防止解集退化。</tspan></text>
+<rect x="1120.0" y="145.0" width="330.0" height="175.0" rx="8" fill="#FFFFFF" stroke="#D6DEE9" stroke-width="1.4"/>
+<text x="1285.0" y="181.3" font-family="Microsoft YaHei" font-size="14.0" font-weight="400" fill="#334155" text-anchor="middle" dominant-baseline="middle"><tspan x="1285.0" dy="0.0">图例说明</tspan><tspan x="1285.0" dy="17.1">蓝色：NSGA-II 主流程</tspan><tspan x="1285.0" dy="17.1">浅蓝虚线：本代搜索与 Q-learning 引导</tspan><tspan x="1285.0" dy="17.1">绿色：VNS 局部强化</tspan><tspan x="1285.0" dy="17.1">紫色：外部档案 Archive</tspan><tspan x="1285.0" dy="17.1">红色：稳定保护机制 Safeguard</tspan><tspan x="1285.0" dy="17.1">橙色：循环与判断</tspan></text>
+<rect x="725.0" y="150.0" width="150.0" height="45.0" rx="8" fill="#EEF8EF" stroke="#3E8E41" stroke-width="1.5"/>
+<text x="800.0" y="172.5" font-family="Microsoft YaHei" font-size="14.0" font-weight="700" fill="#1F4E1F" text-anchor="middle" dominant-baseline="middle"><tspan x="800.0" dy="0.0">开始</tspan></text>
+<polygon points="560.0,225.0 1075.0,225.0 1040.0,310.0 525.0,310.0" fill="#F4F8FF" stroke="#2F6DB3" stroke-width="1.5"/>
+<text x="800.0" y="250.4" font-family="Microsoft YaHei" font-size="14.0" font-weight="400" fill="#0B1F3A" text-anchor="middle" dominant-baseline="middle"><tspan x="800.0" dy="0.0">输入：模型数据与算法参数</tspan><tspan x="800.0" dy="17.1">节点 / 需求 / 距离 / 容量 / 成本</tspan><tspan x="800.0" dy="17.1">pop_size, max_gen, pc, α, γ, ε, VNS 参数</tspan></text>
+<rect x="515.0" y="340.0" width="570.0" height="70.0" rx="8" fill="#EAF3FF" stroke="#2F6DB3" stroke-width="1.5"/>
+<text x="800.0" y="357.9" font-family="Microsoft YaHei" font-size="14.0" font-weight="400" fill="#0B1F3A" text-anchor="middle" dominant-baseline="middle"><tspan x="800.0" dy="0.0">初始化种群 P0</tspan><tspan x="800.0" dy="17.1">编码生成、约束修复</tspan><tspan x="800.0" dy="17.1">评价 F(x) 与 CV(x)</tspan></text>
+<rect x="515.0" y="440.0" width="570.0" height="75.0" rx="8" fill="#F2EEFF" stroke="#6B5FD3" stroke-width="1.5"/>
+<text x="800.0" y="469.0" font-family="Microsoft YaHei" font-size="14.0" font-weight="400" fill="#0B1F3A" text-anchor="middle" dominant-baseline="middle"><tspan x="800.0" dy="0.0">初始化外部档案 Archive 与 Q 表</tspan><tspan x="800.0" dy="17.1">Archive 保存高质量非支配解；Q 表初始化</tspan></text>
+<rect x="625.0" y="560.0" width="350.0" height="48.0" rx="8" fill="#EAF3FF" stroke="#2F6DB3" stroke-width="1.5"/>
+<text x="800.0" y="584.0" font-family="Microsoft YaHei" font-size="14.0" font-weight="400" fill="#0B1F3A" text-anchor="middle" dominant-baseline="middle"><tspan x="800.0" dy="0.0">进入第 gen 代</tspan></text>
+<polygon points="800.0,650.0 940.0,697.5 800.0,745.0 660.0,697.5" fill="#FFF7E8" stroke="#F59E0B" stroke-width="1.6"/>
+<text x="800.0" y="689.6" font-family="Microsoft YaHei" font-size="13.0" font-weight="700" fill="#7A3D00" text-anchor="middle" dominant-baseline="middle"><tspan x="800.0" dy="0.0">是否达到</tspan><tspan x="800.0" dy="15.9">最大迭代代数？</tspan></text>
+<rect x="1220.0" y="662.5" width="310.0" height="70.0" rx="8" fill="#F2EEFF" stroke="#6B5FD3" stroke-width="1.5"/>
+<text x="1375.0" y="689.0" font-family="Microsoft YaHei" font-size="14.0" font-weight="400" fill="#0B1F3A" text-anchor="middle" dominant-baseline="middle"><tspan x="1375.0" dy="0.0">从外部档案 Archive</tspan><tspan x="1375.0" dy="17.1">提取最终 P*</tspan></text>
+<rect x="1210.0" y="790.0" width="330.0" height="140.0" rx="8" fill="#FFFFFF" stroke="#9CA7B8" stroke-width="1.5"/>
+<text x="1375.0" y="842.9" font-family="Microsoft YaHei" font-size="14.0" font-weight="400" fill="#0B1F3A" text-anchor="middle" dominant-baseline="middle"><tspan x="1375.0" dy="0.0">输出 Pareto 非支配解集与折中方案</tspan><tspan x="1375.0" dy="17.1">收敛曲线与历史记录</tspan><tspan x="1375.0" dy="17.1">Q 表、VNS 改进记录与关键参数</tspan></text>
+<rect x="1295.0" y="1000.0" width="160.0" height="45.0" rx="8" fill="#EEF8EF" stroke="#3E8E41" stroke-width="1.5"/>
+<text x="1375.0" y="1022.5" font-family="Microsoft YaHei" font-size="14.0" font-weight="700" fill="#1F4E1F" text-anchor="middle" dominant-baseline="middle"><tspan x="1375.0" dy="0.0">结束</tspan></text>
+<rect x="530.0" y="825.0" width="540.0" height="70.0" rx="8" fill="#EAF3FF" stroke="#2F6DB3" stroke-width="1.5"/>
+<text x="800.0" y="851.5" font-family="Microsoft YaHei" font-size="14.0" font-weight="400" fill="#0B1F3A" text-anchor="middle" dominant-baseline="middle"><tspan x="800.0" dy="0.0">非支配排序与拥挤距离计算</tspan><tspan x="800.0" dy="17.1">确定 rank 与 crowding</tspan></text>
+<rect x="530.0" y="920.0" width="540.0" height="70.0" rx="8" fill="#EAF3FF" stroke="#2F6DB3" stroke-width="1.5"/>
+<text x="800.0" y="946.5" font-family="Microsoft YaHei" font-size="14.0" font-weight="400" fill="#0B1F3A" text-anchor="middle" dominant-baseline="middle"><tspan x="800.0" dy="0.0">构造 Q-learning 状态 s</tspan><tspan x="800.0" dy="17.1">搜索进度 / 可行率 / 非支配比例</tspan></text>
+<rect x="530.0" y="1020.0" width="540.0" height="70.0" rx="8" fill="#EAF3FF" stroke="#2F6DB3" stroke-width="1.5"/>
+<text x="800.0" y="1046.5" font-family="Microsoft YaHei" font-size="14.0" font-weight="400" fill="#0B1F3A" text-anchor="middle" dominant-baseline="middle"><tspan x="800.0" dy="0.0">ε-greedy 选择动作 a</tspan><tspan x="800.0" dy="17.1">确定本代变异引导策略</tspan></text>
+<rect x="530.0" y="1120.0" width="540.0" height="70.0" rx="8" fill="#EAF3FF" stroke="#2F6DB3" stroke-width="1.5"/>
+<text x="800.0" y="1146.5" font-family="Microsoft YaHei" font-size="14.0" font-weight="400" fill="#0B1F3A" text-anchor="middle" dominant-baseline="middle"><tspan x="800.0" dy="0.0">锦标赛选择与交叉</tspan><tspan x="800.0" dy="17.1">生成基础子代</tspan></text>
+<rect x="530.0" y="1210.0" width="540.0" height="70.0" rx="8" fill="#EAF3FF" stroke="#2F6DB3" stroke-width="1.5"/>
+<text x="800.0" y="1236.5" font-family="Microsoft YaHei" font-size="14.0" font-weight="400" fill="#0B1F3A" text-anchor="middle" dominant-baseline="middle"><tspan x="800.0" dy="0.0">Q 动作引导部分子代变异</tspan><tspan x="800.0" dy="17.1">评价子代 Qg：计算 F(x) 与 CV(x)</tspan></text>
+<rect x="515.0" y="1315.0" width="570.0" height="70.0" rx="8" fill="#F2EEFF" stroke="#6B5FD3" stroke-width="1.5"/>
+<text x="800.0" y="1350.0" font-family="Microsoft YaHei" font-size="14.0" font-weight="400" fill="#0B1F3A" text-anchor="middle" dominant-baseline="middle"><tspan x="800.0" dy="0.0">构造合并种群 Rt = Pg ∪ Qg</tspan></text>
+<polygon points="800.0,1435.0 940.0,1485.0 800.0,1535.0 660.0,1485.0" fill="#FFF7E8" stroke="#F59E0B" stroke-width="1.6"/>
+<text x="800.0" y="1477.1" font-family="Microsoft YaHei" font-size="13.0" font-weight="700" fill="#7A3D00" text-anchor="middle" dominant-baseline="middle"><tspan x="800.0" dy="0.0">是否触发 VNS？</tspan><tspan x="800.0" dy="15.9">基于停滞状态 / 触发间隔 / 最小代距</tspan></text>
+<rect x="1160.0" y="1445.0" width="270.0" height="80.0" rx="8" fill="#EEF8EF" stroke="#3E8E41" stroke-width="1.5"/>
+<text x="1295.0" y="1476.5" font-family="Microsoft YaHei" font-size="14.0" font-weight="400" fill="#0B1F3A" text-anchor="middle" dominant-baseline="middle"><tspan x="1295.0" dy="0.0">从外部档案 Archive 选择精英解</tspan><tspan x="1295.0" dy="17.1">边界解 / 稀疏解 / 混合策略</tspan></text>
+<rect x="1160.0" y="1550.0" width="270.0" height="95.0" rx="8" fill="#EEF8EF" stroke="#3E8E41" stroke-width="1.5"/>
+<text x="1295.0" y="1580.4" font-family="Microsoft YaHei" font-size="14.0" font-weight="400" fill="#0B1F3A" text-anchor="middle" dominant-baseline="middle"><tspan x="1295.0" dy="0.0">执行五类邻域操作</tspan><tspan x="1295.0" dy="17.1">N1 开启 / N2 关闭 / N3 交换</tspan><tspan x="1295.0" dy="17.1">N4 重分配 / N5 服务强化</tspan></text>
+<rect x="1160.0" y="1675.0" width="270.0" height="75.0" rx="8" fill="#EEF8EF" stroke="#3E8E41" stroke-width="1.5"/>
+<text x="1295.0" y="1704.0" font-family="Microsoft YaHei" font-size="14.0" font-weight="400" fill="#0B1F3A" text-anchor="middle" dominant-baseline="middle"><tspan x="1295.0" dy="0.0">若候选解被接受则更新当前解</tspan><tspan x="1295.0" dy="17.1">输出 VNS 候选解</tspan></text>
+<rect x="515.0" y="1580.0" width="570.0" height="70.0" rx="8" fill="#F2EEFF" stroke="#6B5FD3" stroke-width="1.5"/>
+<text x="800.0" y="1606.5" font-family="Microsoft YaHei" font-size="14.0" font-weight="400" fill="#0B1F3A" text-anchor="middle" dominant-baseline="middle"><tspan x="800.0" dy="0.0">更新合并种群</tspan><tspan x="800.0" dy="17.1">Rt ← Rt ∪ VNS 候选解</tspan></text>
+<rect x="515.0" y="1690.0" width="570.0" height="75.0" rx="8" fill="#F2EEFF" stroke="#6B5FD3" stroke-width="1.5"/>
+<text x="800.0" y="1719.0" font-family="Microsoft YaHei" font-size="14.0" font-weight="400" fill="#0B1F3A" text-anchor="middle" dominant-baseline="middle"><tspan x="800.0" dy="0.0">更新候选外部档案 candidate Archive</tspan><tspan x="800.0" dy="17.1">保留非支配解并维护多样性</tspan></text>
+<rect x="515.0" y="1795.0" width="570.0" height="75.0" rx="8" fill="#EAF3FF" stroke="#2F6DB3" stroke-width="1.5"/>
+<text x="800.0" y="1815.4" font-family="Microsoft YaHei" font-size="14.0" font-weight="400" fill="#0B1F3A" text-anchor="middle" dominant-baseline="middle"><tspan x="800.0" dy="0.0">环境选择</tspan><tspan x="800.0" dy="17.1">非支配排序 + 拥挤距离</tspan><tspan x="800.0" dy="17.1">形成候选下一代 Pg+1</tspan></text>
+<rect x="515.0" y="1900.0" width="570.0" height="75.0" rx="8" fill="#F2EEFF" stroke="#6B5FD3" stroke-width="1.5"/>
+<text x="800.0" y="1929.0" font-family="Microsoft YaHei" font-size="14.0" font-weight="400" fill="#0B1F3A" text-anchor="middle" dominant-baseline="middle"><tspan x="800.0" dy="0.0">周期性外部档案精英回灌</tspan><tspan x="800.0" dy="17.1">增强搜索稳定性与解集质量</tspan></text>
+<rect x="515.0" y="2005.0" width="570.0" height="80.0" rx="8" fill="#EAF3FF" stroke="#2F6DB3" stroke-width="1.5"/>
+<text x="800.0" y="2036.5" font-family="Microsoft YaHei" font-size="14.0" font-weight="400" fill="#0B1F3A" text-anchor="middle" dominant-baseline="middle"><tspan x="800.0" dy="0.0">计算奖励值 reward</tspan><tspan x="800.0" dy="17.1">基于 HV、可行率、非支配比例、多样性、成本、服务比例与 CV 变化</tspan></text>
+<polygon points="800.0,2160.0 940.0,2207.5 800.0,2255.0 660.0,2207.5" fill="#FFF7E8" stroke="#F59E0B" stroke-width="1.6"/>
+<text x="800.0" y="2207.5" font-family="Microsoft YaHei" font-size="13.0" font-weight="700" fill="#7A3D00" text-anchor="middle" dominant-baseline="middle"><tspan x="800.0" dy="0.0">reward &lt; safeguard 阈值？</tspan></text>
+<rect x="300.0" y="2175.0" width="300.0" height="70.0" rx="8" fill="#FFF1F1" stroke="#D74B4B" stroke-width="1.5"/>
+<text x="450.0" y="2201.5" font-family="Microsoft YaHei" font-size="14.0" font-weight="400" fill="#0B1F3A" text-anchor="middle" dominant-baseline="middle"><tspan x="450.0" dy="0.0">回滚至动作前状态</tspan><tspan x="450.0" dy="17.1">种群 P 与外部档案 Archive</tspan></text>
+<rect x="1000.0" y="2175.0" width="300.0" height="70.0" rx="8" fill="#FFF1F1" stroke="#D74B4B" stroke-width="1.5"/>
+<text x="1150.0" y="2201.5" font-family="Microsoft YaHei" font-size="14.0" font-weight="400" fill="#0B1F3A" text-anchor="middle" dominant-baseline="middle"><tspan x="1150.0" dy="0.0">接受候选种群</tspan><tspan x="1150.0" dy="17.1">同步更新外部档案 Archive</tspan></text>
+<rect x="515.0" y="2380.0" width="570.0" height="70.0" rx="8" fill="#EAF3FF" stroke="#2F6DB3" stroke-width="1.5"/>
+<text x="800.0" y="2406.5" font-family="Microsoft YaHei" font-size="14.0" font-weight="400" fill="#0B1F3A" text-anchor="middle" dominant-baseline="middle"><tspan x="800.0" dy="0.0">更新 Q 表 Q(s,a)</tspan><tspan x="800.0" dy="17.1">Q ← Q + α [ r + γ max Q(s′) − Q ]</tspan></text>
+<rect x="515.0" y="2480.0" width="570.0" height="60.0" rx="8" fill="#EAF3FF" stroke="#2F6DB3" stroke-width="1.5"/>
+<text x="800.0" y="2510.0" font-family="Microsoft YaHei" font-size="14.0" font-weight="400" fill="#0B1F3A" text-anchor="middle" dominant-baseline="middle"><tspan x="800.0" dy="0.0">ε 衰减，gen = gen + 1</tspan></text>
+<rect x="95.0" y="2620.0" width="1410.0" height="48.0" rx="8" fill="#0B3B86" stroke="#0B3B86" stroke-width="1.5"/>
+<text x="800.0" y="2644.0" font-family="Microsoft YaHei" font-size="15.0" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle"><tspan x="800.0" dy="0.0">说明：VNS 局部搜索使用五类邻域操作，包括转运点开启、低负载转运点关闭、转运点交换、需求分配重构与地铁服务强化。</tspan></text>
+<rect x="-0.9" y="1.0" width="0.0" height="0.0" rx="0" fill="#FFFFFF" stroke="#334155" stroke-width="1.5"/>
+<text x="-0.9" y="-8.7" font-family="Microsoft YaHei" font-size="8.5" font-weight="400" fill="#0B1F3A" text-anchor="middle" dominant-baseline="middle"><tspan x="-0.9" dy="0.0">返回</tspan><tspan x="-0.9" dy="9.7">下一</tspan><tspan x="-0.9" dy="9.7">代</tspan></text>
+</svg>

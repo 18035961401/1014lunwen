@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="373.905675pt" height="301.712958pt" viewBox="0 0 373.905675 301.712958" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-05-17T21:25:26.096385</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 301.712958 
+L 373.905675 301.712958 
+L 373.905675 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 262.166283 69.451813 
+C 250.712359 61.422304 237.78721 55.728738 224.131568 52.69742 
+C 210.475926 49.666094 196.355727 49.356059 182.580191 51.785053 
+L 190.343449 95.812671 
+C 198.33326 94.403854 206.522975 94.583675 214.443247 96.341843 
+C 222.36352 98.100008 229.860107 101.402276 236.503383 106.059392 
+z
+" style="fill: #2f4a6d; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 308.988582 144.511475 
+C 307.073317 129.871319 302.132755 115.788553 294.481739 103.160636 
+C 286.830723 90.532722 276.635318 79.633745 264.545275 71.158299 
+L 238.882374 107.765877 
+C 245.894599 112.681636 251.807934 119.003043 256.245523 126.327233 
+C 260.683112 133.651425 263.548638 141.819429 264.659492 150.31072 
+z
+" style="fill: #5b8db8; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 287.003015 221.939177 
+C 294.718594 211.089713 300.330695 198.888429 303.547523 185.969722 
+C 306.764352 173.051016 307.529181 159.642731 305.802231 146.442025 
+L 261.473141 152.24127 
+C 262.474772 159.897679 262.031171 167.674484 260.16541 175.167334 
+C 258.29965 182.660184 255.044631 189.736929 250.569596 196.029618 
+z
+" style="fill: #9ccae2; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 224.081614 263.994014 
+C 236.684576 261.099751 248.655306 255.933022 259.406105 248.747504 
+C 270.156904 241.561985 279.508921 232.477197 287.003015 221.939177 
+L 250.569596 196.029618 
+C 246.223021 202.141669 240.798851 207.410847 234.563388 211.578447 
+C 228.327924 215.746048 221.384901 218.742751 214.075183 220.421423 
+z
+" style="fill: #3e8f8c; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 152.133356 255.195164 
+C 163.156418 260.782241 175.068721 264.407231 187.335461 265.907381 
+C 199.602201 267.407531 212.037014 266.760052 224.081614 263.994014 
+L 214.075183 220.421423 
+C 207.089315 222.025725 199.877123 222.401263 192.762414 221.531176 
+C 185.647705 220.661089 178.738569 218.558595 172.345194 215.31809 
+z
+" style="fill: #6daa6b; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 96.030693 181.869621 
+C 99.276891 197.519048 106.00641 212.238264 115.718318 224.931616 
+C 125.430226 237.624968 137.877414 247.96949 152.133356 255.195164 
+L 172.345194 215.31809 
+C 164.076747 211.127199 156.857378 205.127376 151.224471 197.765232 
+C 145.591565 190.403088 141.688444 181.865943 139.805649 172.789275 
+z
+" style="fill: #d99b5a; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 113.297902 98.860429 
+C 104.886562 110.775222 99.013057 124.292592 96.042798 138.571616 
+C 93.07254 152.850641 93.068416 167.588938 96.030693 181.869621 
+L 139.805649 172.789275 
+C 138.087528 164.506479 138.08992 155.958267 139.81267 147.676433 
+C 141.53542 139.394599 144.942053 131.554524 149.82063 124.643944 
+z
+" style="fill: #c86b5f; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 181.772888 55.422075 
+C 168.074911 57.83739 154.982233 62.914349 143.236898 70.365218 
+C 131.491563 77.816087 121.319728 87.497395 113.297902 98.860429 
+L 149.82063 124.643944 
+C 154.473289 118.053384 160.372953 112.438225 167.185248 108.116721 
+C 173.997542 103.795217 181.591295 100.850581 189.536122 99.449699 
+z
+" style="fill: #7e77a8; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="patch_10">
+    <path d="M 237.372141 49.218373 
+Q 227.926095 63.687519 218.48005 78.156665 
+" style="fill: none; stroke: #777777; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'DejaVu Sans', sans-serif" transform="translate(227.937697 34.837184)">度中心性</text>
+    <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'DejaVu Sans', sans-serif" transform="translate(227.937697 45.103855)">12.5%</text>
+   </g>
+   <g id="patch_11">
+    <path d="M 307.503677 103.700937 
+Q 289.840477 110.187708 272.177276 116.674479 
+" style="fill: none; stroke: #777777; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'DejaVu Sans', sans-serif" transform="translate(309.503104 92.370121)">介数中心性</text>
+    <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'DejaVu Sans', sans-serif" transform="translate(309.503104 102.636793)">13.2%</text>
+   </g>
+   <g id="patch_12">
+    <path d="M 322.20765 186.932666 
+Q 302.032059 183.750597 281.856469 180.568528 
+" style="fill: none; stroke: #777777; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'DejaVu Sans', sans-serif" transform="translate(324.205675 187.806801)">接近中心性</text>
+    <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'DejaVu Sans', sans-serif" transform="translate(324.205675 198.073473)">11.9%</text>
+   </g>
+   <g id="patch_13">
+    <path d="M 282.854825 253.08883 
+Q 264.919787 241.625902 246.984749 230.162975 
+" style="fill: none; stroke: #777777; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'DejaVu Sans', sans-serif" transform="translate(271.235974 261.884583)">特征向量中心性</text>
+    <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'DejaVu Sans', sans-serif" transform="translate(271.235974 272.151255)">11.6%</text>
+   </g>
+   <g id="patch_14">
+    <path d="M 174.021077 273.338948 
+Q 182.035008 258.529114 190.048938 243.719279 
+" style="fill: none; stroke: #777777; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'DejaVu Sans', sans-serif" transform="translate(150.751199 282.133239)">人口密度</text>
+    <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'DejaVu Sans', sans-serif" transform="translate(160.188855 292.399911)">11.1%</text>
+   </g>
+   <g id="patch_15">
+    <path d="M 100.808194 227.297855 
+Q 117.139795 219.323141 133.471396 211.348428 
+" style="fill: none; stroke: #777777; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'DejaVu Sans', sans-serif" transform="translate(64.810628 233.781842)">住宅数目</text>
+    <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'DejaVu Sans', sans-serif" transform="translate(74.248284 244.048514)">14.3%</text>
+   </g>
+   <g id="patch_16">
+    <path d="M 77.198906 138.6362 
+Q 97.563319 140.880113 117.927733 143.124026 
+" style="fill: none; stroke: #777777; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'DejaVu Sans', sans-serif" transform="translate(7.2 131.877039)">城市零售集群数目</text>
+    <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'DejaVu Sans', sans-serif" transform="translate(50.637656 142.143711)">13.0%</text>
+   </g>
+   <g id="patch_17">
+    <path d="M 131.023469 65.77186 
+Q 143.117271 77.506416 155.211072 89.240972 
+" style="fill: none; stroke: #777777; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'DejaVu Sans', sans-serif" transform="translate(106.332921 51.39349)">香农熵</text>
+    <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'DejaVu Sans', sans-serif" transform="translate(107.270577 61.660162)">12.4%</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Microsoft YaHei', 'DejaVu Sans', sans-serif; fill: #2b2b2b" transform="translate(181.879903 156.635906)">CRITIC</text>
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Microsoft YaHei', 'DejaVu Sans', sans-serif; fill: #2b2b2b" transform="translate(178.256778 169.922187)">权重结构</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Microsoft YaHei', 'DejaVu Sans', sans-serif; text-anchor: middle" x="200.256778" y="15.19375" transform="rotate(-0 200.256778 15.19375)">CRITIC 指标权重分布</text>
+   </g>
+  </g>
+ </g>
+</svg>

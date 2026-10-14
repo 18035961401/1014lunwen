@@ -1,0 +1,2 @@
+﻿alpha_q,gamma_q,epsilon_initial,epsilon_decay,epsilon_min,archive_size,vns_interval,vns_elite_rate,vns_trials_per_neighborhood,vns_max_neighborhood,vns_mode,stagnation_window,hv_improvement_threshold,min_vns_gap,archive_boundary_keep_rate,vns_candidate_strategy,actual_vns_calls,qvns_phase_schedule,vns_max_elites,archive_feedback_interval,archive_feedback_rate,q_learning_enabled,q_action_profile,q_action_apply_rate,safeguard,safeguard_threshold
+0.15,0.88,0.3,0.9887267006721892,0.01,250,0,0.12,2,3,adaptive,10,0.0025,5,0.2,mixed,6,,,8,0.15,True,safe,0.25,True,-0.15
