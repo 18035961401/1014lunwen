@@ -1,0 +1,7 @@
+﻿gen,elite_count,candidate_count,vns_trials,vns_accepted,vns_interval,vns_mode,vns_elite_rate,vns_trials_per_neighborhood,vns_max_neighborhood,archive_boundary_keep_rate,stagnation_window,hv_improvement_threshold
+122,12,12,68,4,0,adaptive,0.12,2,3,0.2,10,0.0025
+163,12,12,72,0,0,adaptive,0.12,2,3,0.2,10,0.0025
+208,12,12,72,0,0,adaptive,0.12,2,3,0.2,10,0.0025
+283,12,12,72,0,0,adaptive,0.12,2,3,0.2,10,0.0025
+288,12,12,72,0,0,adaptive,0.12,2,3,0.2,10,0.0025
+293,12,12,72,0,0,adaptive,0.12,2,3,0.2,10,0.0025

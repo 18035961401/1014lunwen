@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="580" viewBox="0 0 980 580">
+<style>text{font-family:"Microsoft YaHei","SimHei","Noto Sans CJK SC","Source Han Sans SC","PingFang SC","Heiti SC","WenQuanYi Micro Hei","Arial Unicode MS","DejaVu Sans",sans-serif;} .title{font-weight:600;}</style>
+<rect x="0" y="0" width="100%" height="100%" fill="white"/>
+<text x="490.0" y="32" text-anchor="middle" font-size="20">Spacing 均值（越小越好）: no_budget_range</text>
+<line x1="90" y1="430" x2="940" y2="430" stroke="#333"/>
+<line x1="90" y1="70" x2="90" y2="430" stroke="#333"/>
+<rect x="130.38" y="419.09" width="131.75" height="10.91" fill="#1f77b4" fill-opacity="0.85"/>
+<text x="196.25" y="413.09" text-anchor="middle" font-size="11">0.0005767</text>
+<text x="196.25" y="454" text-anchor="middle" font-size="10" transform="rotate(25 196.25 454)">QVNS-Q11C</text>
+<rect x="342.88" y="401.46" width="131.75" height="28.54" fill="#ff7f0e" fill-opacity="0.85"/>
+<text x="408.75" y="395.46" text-anchor="middle" font-size="11">0.001508</text>
+<text x="408.75" y="454" text-anchor="middle" font-size="10" transform="rotate(25 408.75 454)">VNS-only</text>
+<rect x="555.38" y="374.61" width="131.75" height="55.39" fill="#2ca02c" fill-opacity="0.85"/>
+<text x="621.25" y="368.61" text-anchor="middle" font-size="11">0.002927</text>
+<text x="621.25" y="454" text-anchor="middle" font-size="10" transform="rotate(25 621.25 454)">Q-learning-only</text>
+<rect x="767.88" y="70.00" width="131.75" height="360.00" fill="#d62728" fill-opacity="0.85"/>
+<text x="833.75" y="64.00" text-anchor="middle" font-size="11">0.01902</text>
+<text x="833.75" y="454" text-anchor="middle" font-size="10" transform="rotate(25 833.75 454)">NSGA-II</text>
+</svg>
