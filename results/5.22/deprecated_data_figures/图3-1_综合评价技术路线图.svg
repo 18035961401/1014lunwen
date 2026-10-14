@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="597.24pt" height="349.488pt" viewBox="0 0 597.24 349.488" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-05-22T23:45:15.969569</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 349.488 
+L 597.24 349.488 
+L 597.24 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 26.5392 105.9984 
+L 570.7008 105.9984 
+L 570.7008 56.15784 
+L 26.5392 56.15784 
+z
+" clip-path="url(#p31dcd0a574)" style="fill: #f4f6f8; stroke: #cbd5e1; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 26.5392 185.05584 
+L 570.7008 185.05584 
+L 570.7008 128.34072 
+L 26.5392 128.34072 
+z
+" clip-path="url(#p31dcd0a574)" style="fill: #ffffff; stroke: #cbd5e1; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 26.5392 270.98784 
+L 570.7008 270.98784 
+L 570.7008 214.27272 
+L 26.5392 214.27272 
+z
+" clip-path="url(#p31dcd0a574)" style="fill: #f4f6f8; stroke: #cbd5e1; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 26.5392 324.26568 
+L 570.7008 324.26568 
+L 570.7008 293.33016 
+L 26.5392 293.33016 
+z
+" clip-path="url(#p31dcd0a574)" style="fill: #ffffff; stroke: #cbd5e1; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 65.57688 98.092656 
+L 141.28632 98.092656 
+Q 151.93296 98.092656 151.93296 91.905552 
+L 151.93296 74.719152 
+Q 151.93296 68.532048 141.28632 68.532048 
+L 65.57688 68.532048 
+Q 54.93024 68.532048 54.93024 74.719152 
+L 54.93024 91.905552 
+Q 54.93024 98.092656 65.57688 98.092656 
+z
+" clip-path="url(#p31dcd0a574)" style="fill: #ffffff; stroke: #cbd5e1; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 107.389812 94.525555 
+Q 201.025083 107.716939 293.774673 120.783548 
+" clip-path="url(#p31dcd0a574)" style="fill: none; stroke: #8b96a3; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 289.724604 117.991247 
+L 293.774673 120.783548 
+L 289.110791 122.348223 
+z
+" clip-path="url(#p31dcd0a574)" style="fill: #8b96a3; stroke: #8b96a3; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 183.87288 98.092656 
+L 259.58232 98.092656 
+Q 270.22896 98.092656 270.22896 91.905552 
+L 270.22896 74.719152 
+Q 270.22896 68.532048 259.58232 68.532048 
+L 183.87288 68.532048 
+Q 173.22624 68.532048 173.22624 74.719152 
+L 173.22624 91.905552 
+Q 173.22624 98.092656 183.87288 98.092656 
+z
+" clip-path="url(#p31dcd0a574)" style="fill: #ffffff; stroke: #cbd5e1; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 225.496191 95.315643 
+Q 260.176889 107.718145 294.015395 119.819462 
+" clip-path="url(#p31dcd0a574)" style="fill: none; stroke: #8b96a3; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 290.613173 116.266311 
+L 294.015395 119.819462 
+L 289.131541 120.409349 
+z
+" clip-path="url(#p31dcd0a574)" style="fill: #8b96a3; stroke: #8b96a3; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 302.16888 98.092656 
+L 377.87832 98.092656 
+Q 388.52496 98.092656 388.52496 91.905552 
+L 388.52496 74.719152 
+Q 388.52496 68.532048 377.87832 68.532048 
+L 302.16888 68.532048 
+Q 291.52224 68.532048 291.52224 74.719152 
+L 291.52224 91.905552 
+Q 291.52224 98.092656 302.16888 98.092656 
+z
+" clip-path="url(#p31dcd0a574)" style="fill: #ffffff; stroke: #cbd5e1; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 336.690388 96.181676 
+Q 319.320076 107.718185 302.694837 118.759853 
+" clip-path="url(#p31dcd0a574)" style="fill: none; stroke: #8b96a3; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 307.577255 118.158195 
+L 302.694837 118.759853 
+L 305.142962 114.492924 
+z
+" clip-path="url(#p31dcd0a574)" style="fill: #8b96a3; stroke: #8b96a3; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 420.46488 98.092656 
+L 496.17432 98.092656 
+Q 506.82096 98.092656 506.82096 91.905552 
+L 506.82096 74.719152 
+Q 506.82096 68.532048 496.17432 68.532048 
+L 420.46488 68.532048 
+Q 409.81824 68.532048 409.81824 74.719152 
+L 409.81824 91.905552 
+Q 409.81824 98.092656 420.46488 98.092656 
+z
+" clip-path="url(#p31dcd0a574)" style="fill: #ffffff; stroke: #cbd5e1; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 454.376821 94.646816 
+Q 378.468662 107.717236 303.441959 120.63588 
+" clip-path="url(#p31dcd0a574)" style="fill: none; stroke: #8b96a3; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 308.151466 122.057338 
+L 303.441959 120.63588 
+L 307.404829 117.721149 
+z
+" clip-path="url(#p31dcd0a574)" style="fill: #8b96a3; stroke: #8b96a3; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 231.19128 130.05936 
+L 366.04872 130.05936 
+Q 376.69536 130.05936 376.69536 123.872256 
+L 376.69536 108.060768 
+Q 376.69536 101.873664 366.04872 101.873664 
+L 231.19128 101.873664 
+Q 220.54464 101.873664 220.54464 108.060768 
+L 220.54464 123.872256 
+Q 220.54464 130.05936 231.19128 130.05936 
+z
+" clip-path="url(#p31dcd0a574)" style="fill: #ffffff; stroke: #cbd5e1; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 298.62 125.934624 
+Q 298.62 127.137672 298.62 127.446293 
+" clip-path="url(#p31dcd0a574)" style="fill: none; stroke: #8b96a3; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 300.82 123.046293 
+L 298.62 127.446293 
+L 296.42 123.046293 
+z
+" clip-path="url(#p31dcd0a574)" style="fill: #8b96a3; stroke: #8b96a3; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 83.32128 173.712816 
+L 253.66752 173.712816 
+Q 264.31416 173.712816 264.31416 167.525712 
+L 264.31416 146.558304 
+Q 264.31416 140.3712 253.66752 140.3712 
+L 83.32128 140.3712 
+Q 72.67464 140.3712 72.67464 146.558304 
+L 72.67464 167.525712 
+Q 72.67464 173.712816 83.32128 173.712816 
+z
+" clip-path="url(#p31dcd0a574)" style="fill: #e7f0f8; stroke: #4c78a8; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 343.57248 173.712816 
+L 513.91872 173.712816 
+Q 524.56536 173.712816 524.56536 167.525712 
+L 524.56536 146.558304 
+Q 524.56536 140.3712 513.91872 140.3712 
+L 343.57248 140.3712 
+Q 332.92584 140.3712 332.92584 146.558304 
+L 332.92584 167.525712 
+Q 332.92584 173.712816 343.57248 173.712816 
+z
+" clip-path="url(#p31dcd0a574)" style="fill: #e3f3ef; stroke: #2a9d8f; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 231.19128 211.522896 
+L 366.04872 211.522896 
+Q 376.69536 211.522896 376.69536 205.335792 
+L 376.69536 190.21176 
+Q 376.69536 184.024656 366.04872 184.024656 
+L 231.19128 184.024656 
+Q 220.54464 184.024656 220.54464 190.21176 
+L 220.54464 205.335792 
+Q 220.54464 211.522896 231.19128 211.522896 
+z
+" clip-path="url(#p31dcd0a574)" style="fill: #ffffff; stroke: #cbd5e1; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 172.406854 170.421753 
+Q 212.856255 179.040782 252.212172 187.42681 
+" clip-path="url(#p31dcd0a574)" style="fill: none; stroke: #4c78a8; stroke-linecap: round"/>
+    <path d="M 248.367269 184.358142 
+L 252.212172 187.42681 
+L 247.450296 188.661531 
+z
+" clip-path="url(#p31dcd0a574)" style="fill: #4c78a8; stroke: #4c78a8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 424.833146 170.421753 
+Q 384.383745 179.040782 345.027828 187.42681 
+" clip-path="url(#p31dcd0a574)" style="fill: none; stroke: #2a9d8f; stroke-linecap: round"/>
+    <path d="M 349.789704 188.661531 
+L 345.027828 187.42681 
+L 348.872731 184.358142 
+z
+" clip-path="url(#p31dcd0a574)" style="fill: #2a9d8f; stroke: #2a9d8f; stroke-linecap: round"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 77.40648 256.207536 
+L 188.60472 256.207536 
+Q 199.25136 256.207536 199.25136 250.020432 
+L 199.25136 232.834032 
+Q 199.25136 226.646928 188.60472 226.646928 
+L 77.40648 226.646928 
+Q 66.75984 226.646928 66.75984 232.834032 
+L 66.75984 250.020432 
+Q 66.75984 256.207536 77.40648 256.207536 
+z
+" clip-path="url(#p31dcd0a574)" style="fill: #f5ebcb; stroke: #d6a33a; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 243.02088 256.207536 
+L 354.21912 256.207536 
+Q 364.86576 256.207536 364.86576 250.020432 
+L 364.86576 232.834032 
+Q 364.86576 226.646928 354.21912 226.646928 
+L 243.02088 226.646928 
+Q 232.37424 226.646928 232.37424 232.834032 
+L 232.37424 250.020432 
+Q 232.37424 256.207536 243.02088 256.207536 
+z
+" clip-path="url(#p31dcd0a574)" style="fill: #f5ebcb; stroke: #d6a33a; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 408.63528 256.207536 
+L 519.83352 256.207536 
+Q 530.48016 256.207536 530.48016 250.020432 
+L 530.48016 232.834032 
+Q 530.48016 226.646928 519.83352 226.646928 
+L 408.63528 226.646928 
+Q 397.98864 226.646928 397.98864 232.834032 
+L 397.98864 250.020432 
+Q 397.98864 256.207536 408.63528 256.207536 
+z
+" clip-path="url(#p31dcd0a574)" style="fill: #ffffff; stroke: #cbd5e1; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 294.660073 207.957033 
+Q 215.813558 219.084805 138.074105 230.056335 
+" clip-path="url(#p31dcd0a574)" style="fill: none; stroke: #667085; stroke-linecap: round"/>
+    <path d="M 142.738373 231.61986 
+L 138.074105 230.056335 
+L 142.123485 227.263036 
+z
+" clip-path="url(#p31dcd0a574)" style="fill: #667085; stroke: #667085; stroke-linecap: round"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 298.62 211.395509 
+Q 298.62 219.084947 298.62 225.656352 
+" clip-path="url(#p31dcd0a574)" style="fill: none; stroke: #667085; stroke-linecap: round"/>
+    <path d="M 300.82 221.256352 
+L 298.62 225.656352 
+L 296.42 221.256352 
+z
+" clip-path="url(#p31dcd0a574)" style="fill: #667085; stroke: #667085; stroke-linecap: round"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 196.153599 241.427232 
+Q 215.812655 241.427232 234.353677 241.427232 
+" clip-path="url(#p31dcd0a574)" style="fill: none; stroke: #667085; stroke-linecap: round"/>
+    <path d="M 229.953677 239.227232 
+L 234.353677 241.427232 
+L 229.953677 243.627232 
+z
+" clip-path="url(#p31dcd0a574)" style="fill: #667085; stroke: #667085; stroke-linecap: round"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 361.767999 241.427232 
+Q 381.427055 241.427232 399.968077 241.427232 
+" clip-path="url(#p31dcd0a574)" style="fill: none; stroke: #667085; stroke-linecap: round"/>
+    <path d="M 395.568077 239.227232 
+L 399.968077 241.427232 
+L 395.568077 243.627232 
+z
+" clip-path="url(#p31dcd0a574)" style="fill: #667085; stroke: #667085; stroke-linecap: round"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 106.98048 319.797216 
+L 490.25952 319.797216 
+Q 500.90616 319.797216 500.90616 313.610112 
+L 500.90616 302.267088 
+Q 500.90616 296.079984 490.25952 296.079984 
+L 106.98048 296.079984 
+Q 96.33384 296.079984 96.33384 302.267088 
+L 96.33384 313.610112 
+Q 96.33384 319.797216 106.98048 319.797216 
+z
+" clip-path="url(#p31dcd0a574)" style="fill: #f5e2df; stroke: #c95c54; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 460.395773 253.198175 
+Q 381.429616 276.143058 303.751814 298.713589 
+" clip-path="url(#p31dcd0a574)" style="fill: none; stroke: #c95c54; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 308.590919 299.5985 
+L 303.751814 298.713589 
+L 307.363205 295.373252 
+z
+" clip-path="url(#p31dcd0a574)" style="fill: #c95c54; stroke: #c95c54; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 14.7096 38.97144 
+L 582.5304 38.97144 
+" clip-path="url(#p31dcd0a574)" style="fill: none; stroke: #cbd5e1; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'Microsoft YaHei', 'SimHei', 'SimSun', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Arial Unicode MS', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #22313f" x="14.7096" y="18.765949" transform="rotate(-0 14.7096 18.765949)">图3-1  地铁物流配送转运点综合评价技术路线</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 9.5px; font-family: 'Microsoft YaHei', 'SimHei', 'SimSun', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Arial Unicode MS', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #667085" x="14.7096" y="31.275811" transform="rotate(-0 14.7096 31.275811)">以网络结构适宜性与周边需求潜力为双维输入，形成第四章选址-分配模型的候选节点集合</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Microsoft YaHei', 'SimHei', 'SimSun', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Arial Unicode MS', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #667085" x="36.00288" y="68.26074" transform="rotate(-0 36.00288 68.26074)">基础数据层</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Microsoft YaHei', 'SimHei', 'SimSun', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Arial Unicode MS', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #667085" x="36.00288" y="140.44362" transform="rotate(-0 36.00288 140.44362)">指标构建层</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Microsoft YaHei', 'SimHei', 'SimSun', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Arial Unicode MS', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #667085" x="36.00288" y="226.37562" transform="rotate(-0 36.00288 226.37562)">综合评价层</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Microsoft YaHei', 'SimHei', 'SimSun', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Arial Unicode MS', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #667085" x="36.00288" y="305.43306" transform="rotate(-0 36.00288 305.43306)">模型衔接层</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 8.8px; font-family: 'Microsoft YaHei', 'SimHei', 'SimSun', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Arial Unicode MS', 'DejaVu Sans', sans-serif; fill: #22313f" transform="translate(85.8316 79.89369)">地铁线网</text>
+    <text style="font-size: 8.8px; font-family: 'Microsoft YaHei', 'SimHei', 'SimSun', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Arial Unicode MS', 'DejaVu Sans', sans-serif; fill: #22313f" transform="translate(81.4316 91.57789)">站点与拓扑</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 8.8px; font-family: 'Microsoft YaHei', 'SimHei', 'SimSun', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Arial Unicode MS', 'DejaVu Sans', sans-serif; fill: #22313f" transform="translate(204.1276 79.89369)">人口密度</text>
+    <text style="font-size: 8.8px; font-family: 'Microsoft YaHei', 'SimHei', 'SimSun', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Arial Unicode MS', 'DejaVu Sans', sans-serif; fill: #22313f" transform="translate(204.1276 91.57789)">栅格数据</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 8.8px; font-family: 'Microsoft YaHei', 'SimHei', 'SimSun', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Arial Unicode MS', 'DejaVu Sans', sans-serif; fill: #22313f" transform="translate(318.0236 79.89369)">住宅与商业</text>
+    <text style="font-size: 8.8px; font-family: 'Microsoft YaHei', 'SimHei', 'SimSun', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Arial Unicode MS', 'DejaVu Sans', sans-serif; fill: #22313f" transform="translate(322.350038 91.57789)">POI 数据</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 8.8px; font-family: 'Microsoft YaHei', 'SimHei', 'SimSun', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Arial Unicode MS', 'DejaVu Sans', sans-serif; fill: #22313f" transform="translate(440.7196 79.89369)">土地功能</text>
+    <text style="font-size: 8.8px; font-family: 'Microsoft YaHei', 'SimHei', 'SimSun', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Arial Unicode MS', 'DejaVu Sans', sans-serif; fill: #22313f" transform="translate(436.3196 91.57789)">混合度数据</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 8.8px; font-family: 'Microsoft YaHei', 'SimHei', 'SimSun', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Arial Unicode MS', 'DejaVu Sans', sans-serif; fill: #22313f" transform="translate(254.62 112.547849)">空间匹配、缓冲区统计</text>
+    <text style="font-size: 8.8px; font-family: 'Microsoft YaHei', 'SimHei', 'SimSun', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Arial Unicode MS', 'DejaVu Sans', sans-serif; fill: #22313f" transform="translate(254.62 124.232049)">指标正向化与无量纲化</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Microsoft YaHei', 'SimHei', 'SimSun', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Arial Unicode MS', 'DejaVu Sans', sans-serif; fill: #22313f" transform="translate(142.9944 153.739891)">网络结构维度</text>
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Microsoft YaHei', 'SimHei', 'SimSun', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Arial Unicode MS', 'DejaVu Sans', sans-serif; fill: #22313f" transform="translate(66.4944 165.025766)">度中心性、介数中心性、接近中心性、特征向量中心性</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Microsoft YaHei', 'SimHei', 'SimSun', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Arial Unicode MS', 'DejaVu Sans', sans-serif; fill: #22313f" transform="translate(403.2456 153.739891)">需求潜力维度</text>
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Microsoft YaHei', 'SimHei', 'SimSun', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Arial Unicode MS', 'DejaVu Sans', sans-serif; fill: #22313f" transform="translate(352.2456 165.025766)">人口密度、住宅数量、零售集聚、香农熵</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 8.8px; font-family: 'Microsoft YaHei', 'SimHei', 'SimSun', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Arial Unicode MS', 'DejaVu Sans', sans-serif; fill: #22313f" transform="translate(272.22 194.355113)">原始评价矩阵</text>
+    <text style="font-size: 8.8px; font-family: 'Microsoft YaHei', 'SimHei', 'SimSun', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Arial Unicode MS', 'DejaVu Sans', sans-serif; fill: #22313f" transform="translate(259.372 206.039313)">候选站点 × 8项指标</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Microsoft YaHei', 'SimHei', 'SimSun', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Arial Unicode MS', 'DejaVu Sans', sans-serif; fill: #22313f" transform="translate(117.969975 237.930873)">CRITIC</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Microsoft YaHei', 'SimHei', 'SimSun', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Arial Unicode MS', 'DejaVu Sans', sans-serif; fill: #22313f" transform="translate(106.0056 249.880623)">客观权重确定</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Microsoft YaHei', 'SimHei', 'SimSun', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Arial Unicode MS', 'DejaVu Sans', sans-serif; fill: #22313f" transform="translate(282.427031 237.930873)">TOPSIS</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Microsoft YaHei', 'SimHei', 'SimSun', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Arial Unicode MS', 'DejaVu Sans', sans-serif; fill: #22313f" transform="translate(267.12 249.880623)">综合贴近度测算</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Microsoft YaHei', 'SimHei', 'SimSun', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Arial Unicode MS', 'DejaVu Sans', sans-serif; fill: #22313f" transform="translate(446.2344 237.930873)">站点排序</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Microsoft YaHei', 'SimHei', 'SimSun', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Arial Unicode MS', 'DejaVu Sans', sans-serif; fill: #22313f" transform="translate(427.183931 249.880623)">筛选前17个候选点</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 8.7px; font-family: 'Microsoft YaHei', 'SimHei', 'SimSun', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Arial Unicode MS', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #22313f" x="298.62" y="310.334498" transform="rotate(-0 298.62 310.334498)">输出：高朋大道、九兴大道、火车南站等17个候选地铁物流配送转运点，进入第四章选址-分配优化模型</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p31dcd0a574">
+   <rect x="2.88" y="2.88" width="591.48" height="343.728"/>
+  </clipPath>
+ </defs>
+</svg>
